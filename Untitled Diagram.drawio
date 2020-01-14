@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-14T06:19:09.995Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="HkHuu5wcpQP8N1aYjX8S" version="12.5.1" type="github">
+<mxfile host="www.draw.io" modified="2020-01-14T06:20:04.529Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="pv0EtPxxRMzLADp9e-_u" version="12.5.1" type="github">
   <diagram id="kbm905aHLV5Dr9nUJAch" name="Page-1">
     <mxGraphModel dx="2889" dy="1123" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,10 +11,10 @@
           <mxGeometry x="-380" y="810" width="35" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="Kp7RcIrqSu2gTxTqtwUE-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-300" y="350" width="670" height="180" as="geometry"/>
+          <mxGeometry x="-110" y="350" width="480" height="180" as="geometry"/>
         </mxCell>
-        <mxCell id="Kp7RcIrqSu2gTxTqtwUE-10" value="Data.gl" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-395" y="390" width="40" height="20" as="geometry"/>
+        <mxCell id="Kp7RcIrqSu2gTxTqtwUE-10" value="Dynamic data.gl" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="393" y="430" width="40" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="Kp7RcIrqSu2gTxTqtwUE-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-300" y="150" width="670" height="100" as="geometry"/>
@@ -71,10 +71,10 @@
           <mxGeometry x="-67" y="910" width="30" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="Kp7RcIrqSu2gTxTqtwUE-38" value="Synchronizer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontSize=12;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="70" y="490" width="274" height="30" as="geometry"/>
+          <mxGeometry x="-90" y="490" width="434" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="Kp7RcIrqSu2gTxTqtwUE-41" value="StreamBuffer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="70" y="440" width="278" height="30" as="geometry"/>
+          <mxGeometry x="-90" y="440" width="438" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
