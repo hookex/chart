@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-14T06:13:32.494Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="uXdzlZ81K_wBB4_6qlLZ" version="12.5.1" type="github">
+<mxfile host="www.draw.io" modified="2020-01-14T06:14:33.142Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="DtubF0qA_YPnE-Vw0P5f" version="12.5.1" type="github">
   <diagram id="kbm905aHLV5Dr9nUJAch" name="Page-1">
     <mxGraphModel dx="2889" dy="1123" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,9 +15,6 @@
         </mxCell>
         <mxCell id="Kp7RcIrqSu2gTxTqtwUE-10" value="Data.gl" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-395" y="390" width="40" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="Kp7RcIrqSu2gTxTqtwUE-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="Kp7RcIrqSu2gTxTqtwUE-11" target="Kp7RcIrqSu2gTxTqtwUE-12">
-          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="Kp7RcIrqSu2gTxTqtwUE-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-300" y="150" width="670" height="100" as="geometry"/>
@@ -49,9 +46,6 @@
         <mxCell id="Kp7RcIrqSu2gTxTqtwUE-24" value="instance mesh" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-67" y="980" width="195" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="Kp7RcIrqSu2gTxTqtwUE-26" value="GlTF" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-67" y="910" width="35" height="60" as="geometry"/>
-        </mxCell>
         <mxCell id="Kp7RcIrqSu2gTxTqtwUE-27" value="Box" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-22" y="910" width="30" height="60" as="geometry"/>
         </mxCell>
@@ -72,6 +66,9 @@
         </mxCell>
         <mxCell id="Kp7RcIrqSu2gTxTqtwUE-34" value="Img" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="268" y="940" width="30" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="Kp7RcIrqSu2gTxTqtwUE-37" value="GlTF" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-67" y="910" width="30" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
