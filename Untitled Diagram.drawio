@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-14T06:38:43.970Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="wlBd6p6Nlzauy_SzRESv" version="12.5.1" type="github">
+<mxfile host="www.draw.io" modified="2020-01-14T06:38:54.613Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="wrLAAKLj4J1e-_db_Nwx" version="12.5.1" type="github">
   <diagram id="kbm905aHLV5Dr9nUJAch" name="Page-1">
     <mxGraphModel dx="2889" dy="1123" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -118,10 +118,10 @@
           <mxGeometry x="500" y="610" width="200" height="200" as="geometry"/>
         </mxCell>
         <mxCell id="Kp7RcIrqSu2gTxTqtwUE-74" value="Online Loader" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-26.25" y="135" width="162" height="60" as="geometry"/>
+          <mxGeometry x="-38.25" y="110" width="126.25" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="Kp7RcIrqSu2gTxTqtwUE-75" value="Record Loader" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="158.75" y="135" width="153.5" height="60" as="geometry"/>
+          <mxGeometry x="97.75" y="110" width="102.25" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
