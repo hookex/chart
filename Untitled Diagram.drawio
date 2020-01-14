@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-14T06:53:55.612Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="nYg3Y5nUYg21StHP6cd_" version="12.5.1" type="github">
+<mxfile host="www.draw.io" modified="2020-01-14T06:54:15.674Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="bJ45yMIAJFWyyHN2jE8e" version="12.5.1" type="github">
   <diagram id="kbm905aHLV5Dr9nUJAch" name="Page-1">
     <mxGraphModel dx="2889" dy="2292" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -29,10 +29,10 @@
           <mxGeometry x="-270" y="780" width="620" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="Kp7RcIrqSu2gTxTqtwUE-17" value="View" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-272" y="860" width="52" height="180" as="geometry"/>
+          <mxGeometry x="-280" y="860" width="60" height="180" as="geometry"/>
         </mxCell>
         <mxCell id="Kp7RcIrqSu2gTxTqtwUE-18" value="Effect" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="860" width="50" height="180" as="geometry"/>
+          <mxGeometry x="-210" y="860" width="60" height="180" as="geometry"/>
         </mxCell>
         <mxCell id="Kp7RcIrqSu2gTxTqtwUE-21" value="Layers" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="-60" y="860" width="430" height="180" as="geometry"/>
@@ -141,6 +141,9 @@
             <mxPoint x="-220" y="380" as="sourcePoint"/>
             <mxPoint x="-253" y="509" as="targetPoint"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Kp7RcIrqSu2gTxTqtwUE-111" value="Animation" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="860" width="60" height="180" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
