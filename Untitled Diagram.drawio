@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-12T09:28:55.537Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="nmg_aWszyvNLB0jOQmPr" version="12.6.7" type="github">
+<mxfile host="www.draw.io" modified="2020-02-12T09:32:47.360Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="yxFghworajeOLcjUH1Ki" version="12.6.7" type="github">
   <diagram id="kbm905aHLV5Dr9nUJAch" name="Page-1">
     <mxGraphModel dx="2334" dy="3182" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,28 +88,13 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="Kp7RcIrqSu2gTxTqtwUE-49" value="Static Map Data" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontSize=12;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="1" vertex="1">
-          <mxGeometry x="-267" y="-850" width="182" height="130" as="geometry"/>
-        </mxCell>
-        <mxCell id="Kp7RcIrqSu2gTxTqtwUE-50" value="Dynamic Data&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontSize=12;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="1" vertex="1">
-          <mxGeometry x="-57" y="-850" width="410" height="130" as="geometry"/>
+          <mxGeometry x="-282.75" y="-1020" width="182" height="130" as="geometry"/>
         </mxCell>
         <mxCell id="Kp7RcIrqSu2gTxTqtwUE-61" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="-315" y="-640" width="200" height="90" as="geometry"/>
         </mxCell>
         <mxCell id="Kp7RcIrqSu2gTxTqtwUE-65" value="getMergedLayers()" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-275" y="-625" width="120" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="Kp7RcIrqSu2gTxTqtwUE-74" value="Online Loader" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="-33.25" y="-830" width="108.25" height="50" as="geometry"/>
-        </mxCell>
-        <mxCell id="Kp7RcIrqSu2gTxTqtwUE-75" value="Record Loader" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="81.63" y="-830" width="102.25" height="50" as="geometry"/>
-        </mxCell>
-        <mxCell id="Kp7RcIrqSu2gTxTqtwUE-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.546;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;shape=flexArrow;" parent="1" source="Kp7RcIrqSu2gTxTqtwUE-81" target="Kp7RcIrqSu2gTxTqtwUE-9" edge="1">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="Kp7RcIrqSu2gTxTqtwUE-81" value="Loader" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="-32" y="-770" width="378" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="Kp7RcIrqSu2gTxTqtwUE-86" value="Metadata" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontSize=12;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-85" y="-625" width="90" height="30" as="geometry"/>
@@ -152,7 +137,7 @@
           <mxGeometry x="195" y="-440" width="320" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="Kp7RcIrqSu2gTxTqtwUE-130" value="Data Compatibility Transfer (optional)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="-267" y="-1010" width="622" height="50" as="geometry"/>
+          <mxGeometry x="-55" y="-850" width="399.25" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="Kp7RcIrqSu2gTxTqtwUE-138" value="" style="group;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-75" y="-360" width="430" height="60" as="geometry"/>
@@ -182,7 +167,7 @@
           <mxGeometry x="-780" y="-575" width="280" height="135" as="geometry"/>
         </mxCell>
         <mxCell id="UeCTLoyQdsgvgEPBuvyG-3" value="Standard State Sync Data Protocal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-266" y="-940" width="622" height="50" as="geometry"/>
+          <mxGeometry x="-51.13" y="-780" width="398.25" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="UeCTLoyQdsgvgEPBuvyG-5" value="AGV" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-285" y="-1470" width="80" height="80" as="geometry"/>
@@ -192,6 +177,21 @@
         </mxCell>
         <mxCell id="UeCTLoyQdsgvgEPBuvyG-7" value="ARM" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-57" y="-1470" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="UeCTLoyQdsgvgEPBuvyG-8" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-57" y="-1020" width="410" height="130" as="geometry"/>
+        </mxCell>
+        <mxCell id="Kp7RcIrqSu2gTxTqtwUE-50" value="Dynamic Data&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontSize=12;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="UeCTLoyQdsgvgEPBuvyG-8" vertex="1">
+          <mxGeometry width="410" height="130" as="geometry"/>
+        </mxCell>
+        <mxCell id="Kp7RcIrqSu2gTxTqtwUE-74" value="Online Loader" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontSize=12;" parent="UeCTLoyQdsgvgEPBuvyG-8" vertex="1">
+          <mxGeometry x="23.75" y="20" width="108.25" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="Kp7RcIrqSu2gTxTqtwUE-75" value="Record Loader" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontSize=12;" parent="UeCTLoyQdsgvgEPBuvyG-8" vertex="1">
+          <mxGeometry x="138.63" y="20" width="102.25" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="Kp7RcIrqSu2gTxTqtwUE-81" value="Loader" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontSize=12;" parent="UeCTLoyQdsgvgEPBuvyG-8" vertex="1">
+          <mxGeometry x="25" y="80" width="378" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
