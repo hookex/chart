@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-17T05:48:48.192Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="Zu8r_l2j51r6biBif0rW" version="12.7.0" type="github">
+<mxfile host="www.draw.io" modified="2020-02-17T06:26:18.658Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="0PTtKa6EfSmZYYgMfLAy" version="12.7.0" type="github">
   <diagram id="r8dyAenhpYEkF3rmn25K" name="Page-1">
-    <mxGraphModel dx="621" dy="1543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1060" dy="1807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -173,7 +173,7 @@
             <mxPoint x="745" y="485" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gw2dtnyYVouEuGopL-0R-62" value="UI组件&lt;br&gt;(如机器人的速度时间轴)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0066CC;" vertex="1" parent="1">
+        <mxCell id="gw2dtnyYVouEuGopL-0R-62" value="和数据绑定的UI组件&lt;br&gt;(如机器人的速度时间轴)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0066CC;" vertex="1" parent="1">
           <mxGeometry x="683.5" y="500" width="130" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="gw2dtnyYVouEuGopL-0R-65" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;fontSize=14;fontColor=#4D4D4D;align=center;dashed=1;" vertex="1" parent="1">
