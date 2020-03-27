@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-27T10:02:27.605Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4096.3 Safari/537.36" etag="4JcJ1Si-C_kaxTLLKCsp" version="12.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-27T10:02:49.098Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4096.3 Safari/537.36" etag="Ix3zUCykKBvMJ6gts-Wm" version="12.9.3" type="github">
   <diagram id="kbm905aHLV5Dr9nUJAch" name="Page-1">
     <mxGraphModel dx="4543" dy="3460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -316,7 +316,7 @@
         <mxCell id="UeCTLoyQdsgvgEPBuvyG-13" value="" style="group" parent="OYR4AbBBOLj8Olsny7-R-1" vertex="1" connectable="0">
           <mxGeometry y="10" width="450" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="UeCTLoyQdsgvgEPBuvyG-3" value="Standard State Sync Data Protocal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontSize=12;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="UeCTLoyQdsgvgEPBuvyG-13" vertex="1">
+        <mxCell id="UeCTLoyQdsgvgEPBuvyG-3" value="标准动态数据协议" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontSize=12;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="UeCTLoyQdsgvgEPBuvyG-13" vertex="1">
           <mxGeometry y="30" width="450" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Kp7RcIrqSu2gTxTqtwUE-86" value="Metadata" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontSize=12;dashed=1;" parent="UeCTLoyQdsgvgEPBuvyG-13" vertex="1">
