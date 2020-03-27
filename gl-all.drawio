@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-27T10:03:19.659Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4096.3 Safari/537.36" etag="WXZ2gsUjPYXSgF_4hNXm" version="12.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-27T10:03:51.469Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4096.3 Safari/537.36" etag="Fq9QH92KTqfKkGt4Gais" version="12.9.3" type="github">
   <diagram id="kbm905aHLV5Dr9nUJAch" name="Page-1">
     <mxGraphModel dx="4543" dy="3460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -286,13 +286,13 @@
         <mxCell id="G_mRowMAx6_Zk3fWA19y-179" value="Hook: useVData()" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="534.7922916666666" y="190.00352941176467" width="125.40770833333336" height="54.11764705882352" as="geometry" />
         </mxCell>
-        <mxCell id="G_mRowMAx6_Zk3fWA19y-183" value="hook: useAnimation()" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="G_mRowMAx6_Zk3fWA19y-183" value="Hook: useAnimation()" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-275.005" y="205.88588235294117" width="137.0625" height="50.73529411764706" as="geometry" />
         </mxCell>
-        <mxCell id="G_mRowMAx6_Zk3fWA19y-184" value="HOC: Connect()" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="G_mRowMAx6_Zk3fWA19y-184" value="Redux: Connect()" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="398.0022916666666" y="190.00352941176467" width="125.40770833333336" height="54.11764705882352" as="geometry" />
         </mxCell>
-        <mxCell id="G_mRowMAx6_Zk3fWA19y-185" value="HOC: Connect()" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="G_mRowMAx6_Zk3fWA19y-185" value="Redux: Connect()" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-417.95770833333336" y="205.8835294117647" width="125.40770833333336" height="54.11764705882352" as="geometry" />
         </mxCell>
         <mxCell id="OYR4AbBBOLj8Olsny7-R-13" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -354,6 +354,9 @@
         </mxCell>
         <mxCell id="OYR4AbBBOLj8Olsny7-R-18" value="Loader" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontSize=12;" vertex="1" parent="OYR4AbBBOLj8Olsny7-R-14">
           <mxGeometry x="28.65853658536585" y="80" width="433.31707317073165" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OYR4AbBBOLj8Olsny7-R-19" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-72" y="116" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
