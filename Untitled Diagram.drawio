@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-27T09:36:09.491Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="fBaH0zN-BlJaNkT4QgH5" version="12.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-27T09:36:35.535Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="i02lech_dAuFJv7dyzn8" version="12.9.3" type="github">
   <diagram id="kbm905aHLV5Dr9nUJAch" name="Page-1">
     <mxGraphModel dx="4719" dy="3816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -311,28 +311,28 @@
           <mxGeometry x="13.349999999999909" y="85" width="448.87" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G_mRowMAx6_Zk3fWA19y-172" value="可视化组件" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="336" y="260" width="584" height="310" as="geometry" />
+          <mxGeometry x="390" y="260" width="584" height="310" as="geometry" />
         </mxCell>
         <mxCell id="G_mRowMAx6_Zk3fWA19y-173" value="静态信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="373" y="330" width="87" height="180" as="geometry" />
+          <mxGeometry x="427" y="330" width="87" height="180" as="geometry" />
         </mxCell>
         <mxCell id="G_mRowMAx6_Zk3fWA19y-176" value="线图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="330" width="87" height="180" as="geometry" />
+          <mxGeometry x="554" y="330" width="87" height="180" as="geometry" />
         </mxCell>
         <mxCell id="G_mRowMAx6_Zk3fWA19y-177" value="饼图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="330" width="87" height="180" as="geometry" />
+          <mxGeometry x="664" y="330" width="87" height="180" as="geometry" />
         </mxCell>
         <mxCell id="G_mRowMAx6_Zk3fWA19y-178" value="列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="330" width="87" height="180" as="geometry" />
+          <mxGeometry x="774" y="330" width="87" height="180" as="geometry" />
         </mxCell>
         <mxCell id="G_mRowMAx6_Zk3fWA19y-179" value="Hook: useVData()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480.79229166666664" y="169.99352941176468" width="125.40770833333336" height="54.11764705882352" as="geometry" />
+          <mxGeometry x="534.7922916666666" y="169.99352941176468" width="125.40770833333336" height="54.11764705882352" as="geometry" />
         </mxCell>
         <mxCell id="G_mRowMAx6_Zk3fWA19y-183" value="hook: useAnimation()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-274.995" y="169.99588235294115" width="137.0625" height="50.73529411764706" as="geometry" />
         </mxCell>
         <mxCell id="G_mRowMAx6_Zk3fWA19y-184" value="HOC: Connect()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="341.6322916666666" y="169.99352941176468" width="125.40770833333336" height="54.11764705882352" as="geometry" />
+          <mxGeometry x="395.6322916666666" y="169.99352941176468" width="125.40770833333336" height="54.11764705882352" as="geometry" />
         </mxCell>
         <mxCell id="G_mRowMAx6_Zk3fWA19y-185" value="HOC: Connect()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-417.95770833333336" y="166.6135294117647" width="125.40770833333336" height="54.11764705882352" as="geometry" />
