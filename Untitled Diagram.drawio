@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-03-27T09:34:20.439Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="pNPC1JLTT8HebaFZWla0" version="12.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-27T09:36:09.491Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="fBaH0zN-BlJaNkT4QgH5" version="12.9.3" type="github">
   <diagram id="kbm905aHLV5Dr9nUJAch" name="Page-1">
-    <mxGraphModel dx="3146" dy="3323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4719" dy="3816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="G_mRowMAx6_Zk3fWA19y-164" value="全场景" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="-420" y="260" width="715.5" height="310" as="geometry" />
+          <mxGeometry x="-420" y="270" width="700" height="300" as="geometry" />
         </mxCell>
         <mxCell id="G_mRowMAx6_Zk3fWA19y-107" value="地图树" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="-405.5" y="340" width="415.5" height="220" as="geometry" />
@@ -260,7 +260,7 @@
           <mxGeometry x="-188.25" y="510" width="50.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G_mRowMAx6_Zk3fWA19y-153" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-1520" y="-230" width="480" height="630" as="geometry" />
+          <mxGeometry x="-1670" y="-240" width="480" height="630" as="geometry" />
         </mxCell>
         <mxCell id="G_mRowMAx6_Zk3fWA19y-114" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;data thread&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;by redux-saga&lt;/span&gt;&lt;/div&gt;" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="G_mRowMAx6_Zk3fWA19y-153">
           <mxGeometry width="480" height="630" as="geometry" />
@@ -281,7 +281,7 @@
           <mxGeometry x="20" y="340" width="450" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G_mRowMAx6_Zk3fWA19y-154" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-910" y="-220" width="480" height="630" as="geometry" />
+          <mxGeometry x="-1040" y="-220" width="480" height="630" as="geometry" />
         </mxCell>
         <mxCell id="G_mRowMAx6_Zk3fWA19y-127" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;data thread&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;by redux-saga&lt;/span&gt;&lt;/div&gt;" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="G_mRowMAx6_Zk3fWA19y-154">
           <mxGeometry width="480" height="630" as="geometry" />
