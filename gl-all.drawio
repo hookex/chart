@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-27T10:22:38.657Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4096.3 Safari/537.36" etag="gDT5IrPG4YjZuxHSQLX6" version="12.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-27T10:23:17.856Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4096.3 Safari/537.36" etag="jIu2ylBcIkLLm71DZqJe" version="12.9.3" type="github">
   <diagram id="kbm905aHLV5Dr9nUJAch" name="Page-1">
     <mxGraphModel dx="4600" dy="2772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -127,7 +127,7 @@
         <mxCell id="G_mRowMAx6_Zk3fWA19y-154" value="" style="group;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="990" y="-360" width="480" height="630" as="geometry" />
         </mxCell>
-        <mxCell id="G_mRowMAx6_Zk3fWA19y-127" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;data thread&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;by redux-saga&lt;/span&gt;&lt;/div&gt;" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="G_mRowMAx6_Zk3fWA19y-154" vertex="1">
+        <mxCell id="G_mRowMAx6_Zk3fWA19y-127" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="G_mRowMAx6_Zk3fWA19y-154" vertex="1">
           <mxGeometry width="480" height="630" as="geometry" />
         </mxCell>
         <mxCell id="G_mRowMAx6_Zk3fWA19y-129" value="数据Buffers" style="rounded=1;whiteSpace=wrap;html=1;" parent="G_mRowMAx6_Zk3fWA19y-154" vertex="1">
