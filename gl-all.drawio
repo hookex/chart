@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-07T11:29:12.334Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="LmymRj8uIul-4UqMII-q" version="12.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-07T11:30:40.932Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="Chqph0bADz0Q1Kb5oXoj" version="12.9.4" type="github">
   <diagram id="kbm905aHLV5Dr9nUJAch" name="Page-1">
     <mxGraphModel dx="4403" dy="3835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -322,7 +322,7 @@
           <mxGeometry x="393.125" y="29.361702127659573" width="58.723404255319146" height="58.723404255319146" as="geometry" />
         </mxCell>
         <mxCell id="esOJimNZTuqzEGKTnxW6-34" value="&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;数据流effect by redux-saga&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="-940" y="-1570" width="2035" height="450" as="geometry" />
+          <mxGeometry x="-940" y="-1570" width="1340" height="450" as="geometry" />
         </mxCell>
         <mxCell id="esOJimNZTuqzEGKTnxW6-35" value="HTTP" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="-902.75" y="-1530" width="462.75" height="60" as="geometry" />
@@ -330,14 +330,17 @@
         <mxCell id="esOJimNZTuqzEGKTnxW6-38" value="WebSocket" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="-429.12" y="-1530" width="1489.12" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="esOJimNZTuqzEGKTnxW6-40" value="全局配置信息" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="-902.75" y="-1400" width="150" height="50" as="geometry" />
+        <mxCell id="esOJimNZTuqzEGKTnxW6-44" value="全局配置信息" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="-880" y="-1340" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="esOJimNZTuqzEGKTnxW6-41" value="地图数据" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="-730" y="-1400" width="150" height="50" as="geometry" />
+        <mxCell id="esOJimNZTuqzEGKTnxW6-45" value="地图数据" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="-1340" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="esOJimNZTuqzEGKTnxW6-42" value="动态数据流" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="-430.25" y="-1390" width="150" height="50" as="geometry" />
+        <mxCell id="esOJimNZTuqzEGKTnxW6-47" value="动态数据流" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="-405.5" y="-1330" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="esOJimNZTuqzEGKTnxW6-48" value="远程指令" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="-245.5" y="-1330" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
