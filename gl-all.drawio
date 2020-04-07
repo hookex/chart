@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-07T11:51:53.708Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="oNVfWI31LGU70pYf0hOi" version="12.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-07T11:52:24.171Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="E0WYjegyqXIyjQD-AvtM" version="12.9.4" type="github">
   <diagram id="kbm905aHLV5Dr9nUJAch" name="Page-1">
     <mxGraphModel dx="4403" dy="3835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -252,8 +252,8 @@
         <mxCell id="esOJimNZTuqzEGKTnxW6-61" value="selectors" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="285.73" y="-790" width="503" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G_mRowMAx6_Zk3fWA19y-127" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;b style=&quot;font-size: 20px&quot;&gt;实时数据&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="910.87" y="-1043" width="700" height="370" as="geometry" />
+        <mxCell id="G_mRowMAx6_Zk3fWA19y-127" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;b style=&quot;font-size: 20px&quot;&gt;实时数据Store&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="910.87" y="-1045" width="700" height="370" as="geometry" />
         </mxCell>
         <mxCell id="G_mRowMAx6_Zk3fWA19y-131" value="物体运动时间轴数据state" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="933.02" y="-870" width="176.98" height="60" as="geometry" />
@@ -271,7 +271,7 @@
           <mxGeometry x="934.67" y="-790" width="662.04" height="60" as="geometry" />
         </mxCell>
         <mxCell id="esOJimNZTuqzEGKTnxW6-68" value="actions" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="933.02" y="-967" width="663.69" height="60" as="geometry" />
+          <mxGeometry x="934.67" y="-960" width="663.69" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
