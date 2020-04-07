@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-07T11:58:33.123Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="pJMRuGMR9ILWWuwp9jUf" version="12.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-07T11:59:59.085Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="Dw9vlKa4pbLBZ-fDE9sQ" version="12.9.4" type="github">
   <diagram id="kbm905aHLV5Dr9nUJAch" name="Page-1">
     <mxGraphModel dx="4403" dy="3835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -262,10 +262,7 @@
           <mxGeometry x="1130" y="-870" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G_mRowMAx6_Zk3fWA19y-135" value="播放控制器" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="1400" y="-870" width="105.06" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OYR4AbBBOLj8Olsny7-R-40" value="同步器" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="1280" y="-870" width="100" height="60" as="geometry" />
+          <mxGeometry x="1300" y="-870" width="105.06" height="60" as="geometry" />
         </mxCell>
         <mxCell id="esOJimNZTuqzEGKTnxW6-63" value="selectors" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="934.67" y="-790" width="662.04" height="60" as="geometry" />
