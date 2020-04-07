@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-07T11:32:33.992Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="ZRHP31xg9TuOVmbQY-dM" version="12.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-07T11:33:14.003Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="mv67-aJoKm273vZpj8ka" version="12.9.4" type="github">
   <diagram id="kbm905aHLV5Dr9nUJAch" name="Page-1">
     <mxGraphModel dx="4403" dy="3835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -172,21 +172,6 @@
         <mxCell id="G_mRowMAx6_Zk3fWA19y-185" value="Redux: Connect()" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="-417.95770833333336" y="205.8835294117647" width="125.40770833333336" height="54.11764705882352" as="geometry" />
         </mxCell>
-        <mxCell id="OYR4AbBBOLj8Olsny7-R-14" value="" style="group;fontFamily=Verdana;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="998" y="-1530" width="514" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="OYR4AbBBOLj8Olsny7-R-15" value="数据加载器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontSize=12;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontFamily=Verdana;" parent="OYR4AbBBOLj8Olsny7-R-14" vertex="1">
-          <mxGeometry width="513.9999999999999" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="OYR4AbBBOLj8Olsny7-R-16" value="Online Loader" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontSize=12;fontFamily=Verdana;" parent="OYR4AbBBOLj8Olsny7-R-14" vertex="1">
-          <mxGeometry x="29.774390243902435" y="21.538461538461537" width="135.70853658536583" height="53.84615384615385" as="geometry" />
-        </mxCell>
-        <mxCell id="OYR4AbBBOLj8Olsny7-R-17" value="Record Loader" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontSize=12;fontFamily=Verdana;" parent="OYR4AbBBOLj8Olsny7-R-14" vertex="1">
-          <mxGeometry x="173.79468292682924" y="21.538461538461537" width="128.18658536585363" height="53.84615384615385" as="geometry" />
-        </mxCell>
-        <mxCell id="OYR4AbBBOLj8Olsny7-R-18" value="Loader" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontSize=12;fontFamily=Verdana;" parent="OYR4AbBBOLj8Olsny7-R-14" vertex="1">
-          <mxGeometry x="31.34146341463414" y="86.15384615384615" width="473.8829268292682" height="43.07692307692307" as="geometry" />
-        </mxCell>
         <mxCell id="OYR4AbBBOLj8Olsny7-R-44" value="列表" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="716.8" y="350" width="87" height="180" as="geometry" />
         </mxCell>
@@ -276,8 +261,47 @@
         <mxCell id="esOJimNZTuqzEGKTnxW6-18" value="selectors" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="esOJimNZTuqzEGKTnxW6-19">
           <mxGeometry x="37.44999999999999" y="250" width="503" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OYR4AbBBOLj8Olsny7-R-13" value="" style="group;fontFamily=Verdana;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1000" y="-1810" width="510" height="230" as="geometry" />
+        <mxCell id="esOJimNZTuqzEGKTnxW6-34" value="&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;数据流effect by redux-saga&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="-933.25" y="-1570" width="1443.25" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="esOJimNZTuqzEGKTnxW6-35" value="HTTP Loader" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="-902.75" y="-1530" width="462.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="esOJimNZTuqzEGKTnxW6-38" value="WebSocket Loader" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="-429.12" y="-1530" width="779.12" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="esOJimNZTuqzEGKTnxW6-44" value="全局配置信息" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="-880" y="-1340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="esOJimNZTuqzEGKTnxW6-45" value="地图数据" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="-1340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="esOJimNZTuqzEGKTnxW6-47" value="动态数据流" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="-405.5" y="-1330" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="esOJimNZTuqzEGKTnxW6-48" value="远程指令" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="-245.5" y="-1330" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="esOJimNZTuqzEGKTnxW6-49" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-180" y="-2280" width="514" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="OYR4AbBBOLj8Olsny7-R-14" value="" style="group;fontFamily=Verdana;" parent="esOJimNZTuqzEGKTnxW6-49" vertex="1" connectable="0">
+          <mxGeometry y="280" width="514" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="OYR4AbBBOLj8Olsny7-R-15" value="数据加载器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontSize=12;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontFamily=Verdana;" parent="OYR4AbBBOLj8Olsny7-R-14" vertex="1">
+          <mxGeometry width="513.9999999999999" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="OYR4AbBBOLj8Olsny7-R-16" value="Online Loader" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontSize=12;fontFamily=Verdana;" parent="OYR4AbBBOLj8Olsny7-R-14" vertex="1">
+          <mxGeometry x="29.774390243902435" y="21.538461538461537" width="135.70853658536583" height="53.84615384615385" as="geometry" />
+        </mxCell>
+        <mxCell id="OYR4AbBBOLj8Olsny7-R-17" value="Record Loader" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontSize=12;fontFamily=Verdana;" parent="OYR4AbBBOLj8Olsny7-R-14" vertex="1">
+          <mxGeometry x="173.79468292682924" y="21.538461538461537" width="128.18658536585363" height="53.84615384615385" as="geometry" />
+        </mxCell>
+        <mxCell id="OYR4AbBBOLj8Olsny7-R-18" value="Loader" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontSize=12;fontFamily=Verdana;" parent="OYR4AbBBOLj8Olsny7-R-14" vertex="1">
+          <mxGeometry x="31.34146341463414" y="86.15384615384615" width="473.8829268292682" height="43.07692307692307" as="geometry" />
+        </mxCell>
+        <mxCell id="OYR4AbBBOLj8Olsny7-R-13" value="" style="group;fontFamily=Verdana;" parent="esOJimNZTuqzEGKTnxW6-49" vertex="1" connectable="0">
+          <mxGeometry x="2" width="510" height="230" as="geometry" />
         </mxCell>
         <mxCell id="G_mRowMAx6_Zk3fWA19y-187" value="动态数据流" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontSize=12;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontFamily=Verdana;" parent="OYR4AbBBOLj8Olsny7-R-13" vertex="1">
           <mxGeometry width="510" height="230" as="geometry" />
@@ -320,27 +344,6 @@
         </mxCell>
         <mxCell id="OYR4AbBBOLj8Olsny7-R-12" value="Stream6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Verdana;" parent="OYR4AbBBOLj8Olsny7-R-13" vertex="1">
           <mxGeometry x="393.125" y="29.361702127659573" width="58.723404255319146" height="58.723404255319146" as="geometry" />
-        </mxCell>
-        <mxCell id="esOJimNZTuqzEGKTnxW6-34" value="&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;数据流effect by redux-saga&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="-933.25" y="-1570" width="1340" height="450" as="geometry" />
-        </mxCell>
-        <mxCell id="esOJimNZTuqzEGKTnxW6-35" value="HTTP Loader" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="-902.75" y="-1530" width="462.75" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="esOJimNZTuqzEGKTnxW6-38" value="WebSocket Loader" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="-429.12" y="-1530" width="779.12" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="esOJimNZTuqzEGKTnxW6-44" value="全局配置信息" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="-880" y="-1340" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="esOJimNZTuqzEGKTnxW6-45" value="地图数据" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="-710" y="-1340" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="esOJimNZTuqzEGKTnxW6-47" value="动态数据流" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="-405.5" y="-1330" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="esOJimNZTuqzEGKTnxW6-48" value="远程指令" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="-245.5" y="-1330" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
