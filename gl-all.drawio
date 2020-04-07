@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-07T11:26:23.526Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="h-Tzr47wbIHPcRl2FDNZ" version="12.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-07T11:27:02.202Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="h6XaCcuSdP06-Mw3fxnm" version="12.9.4" type="github">
   <diagram id="kbm905aHLV5Dr9nUJAch" name="Page-1">
     <mxGraphModel dx="4403" dy="3835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -321,7 +321,7 @@
         <mxCell id="OYR4AbBBOLj8Olsny7-R-12" value="Stream6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Verdana;" parent="OYR4AbBBOLj8Olsny7-R-13" vertex="1">
           <mxGeometry x="393.125" y="29.361702127659573" width="58.723404255319146" height="58.723404255319146" as="geometry" />
         </mxCell>
-        <mxCell id="esOJimNZTuqzEGKTnxW6-34" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="esOJimNZTuqzEGKTnxW6-34" value="&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;数据流effect by redux-saga&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="-940" y="-1450" width="2035" height="330" as="geometry" />
         </mxCell>
       </root>
