@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-07T11:42:45.846Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="iL9K14fmp_b3-lbBTrRK" version="12.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-07T11:43:46.789Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="Rt26_LwpNGOWdkE64Wsq" version="12.9.4" type="github">
   <diagram id="kbm905aHLV5Dr9nUJAch" name="Page-1">
     <mxGraphModel dx="4403" dy="3835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -128,34 +128,34 @@
           <mxGeometry x="25.42" y="250" width="480" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G_mRowMAx6_Zk3fWA19y-154" value="" style="group;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontFamily=Verdana;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1130" y="-1030" width="480" height="630" as="geometry" />
+          <mxGeometry x="1110" y="-1030" width="710" height="630" as="geometry" />
         </mxCell>
         <mxCell id="G_mRowMAx6_Zk3fWA19y-127" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontFamily=Verdana;" parent="G_mRowMAx6_Zk3fWA19y-154" vertex="1">
-          <mxGeometry width="480" height="630" as="geometry" />
+          <mxGeometry width="710" height="630" as="geometry" />
         </mxCell>
         <mxCell id="G_mRowMAx6_Zk3fWA19y-129" value="数据Buffers" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="G_mRowMAx6_Zk3fWA19y-154" vertex="1">
-          <mxGeometry x="15.56999999999991" y="200" width="448.87" height="60" as="geometry" />
+          <mxGeometry x="23.03062499999987" y="200" width="663.9535416666668" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G_mRowMAx6_Zk3fWA19y-131" value="物体运动时间轴数据" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="G_mRowMAx6_Zk3fWA19y-154" vertex="1">
-          <mxGeometry x="200" y="285" width="264.44" height="60" as="geometry" />
+          <mxGeometry x="162.71" y="285" width="147.29" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G_mRowMAx6_Zk3fWA19y-132" value="可视化数据" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="G_mRowMAx6_Zk3fWA19y-154" vertex="1">
-          <mxGeometry x="18.899999999999963" y="285" width="164.43" height="60" as="geometry" />
+          <mxGeometry x="27.96" y="285" width="122.04" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G_mRowMAx6_Zk3fWA19y-135" value="播放控制器" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="G_mRowMAx6_Zk3fWA19y-154" vertex="1">
-          <mxGeometry x="20.009999999999962" y="440" width="444.43" height="60" as="geometry" />
+          <mxGeometry x="510" y="285" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G_mRowMAx6_Zk3fWA19y-136" value="当前可视化数据" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="G_mRowMAx6_Zk3fWA19y-154" vertex="1">
-          <mxGeometry x="18.899999999999864" y="524" width="162.21" height="60" as="geometry" />
+          <mxGeometry x="27.956249999999798" y="524" width="239.93562500000002" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G_mRowMAx6_Zk3fWA19y-137" value="物体当前帧" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="G_mRowMAx6_Zk3fWA19y-154" vertex="1">
-          <mxGeometry x="200" y="524" width="260" height="60" as="geometry" />
+          <mxGeometry x="295.83333333333337" y="524" width="384.58333333333337" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G_mRowMAx6_Zk3fWA19y-138" value="actions" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="G_mRowMAx6_Zk3fWA19y-154" vertex="1">
-          <mxGeometry x="17.78999999999991" y="100" width="448.87" height="60" as="geometry" />
+          <mxGeometry x="26.31437499999987" y="100" width="663.9535416666668" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OYR4AbBBOLj8Olsny7-R-40" value="同步器" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="G_mRowMAx6_Zk3fWA19y-154" vertex="1">
-          <mxGeometry x="20.00999999999999" y="370" width="444.43" height="60" as="geometry" />
+          <mxGeometry x="320" y="285" width="180.4" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G_mRowMAx6_Zk3fWA19y-173" value="静态信息" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="380" y="350" width="87" height="180" as="geometry" />
