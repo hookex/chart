@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-07T11:44:59.428Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="EyDn8Bu9ODNWL7PXA_PR" version="12.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-07T11:45:25.069Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="vMx4Qai14yw4476Wyzth" version="12.9.4" type="github">
   <diagram id="kbm905aHLV5Dr9nUJAch" name="Page-1">
     <mxGraphModel dx="4403" dy="3835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -242,15 +242,6 @@
         </mxCell>
         <mxCell id="esOJimNZTuqzEGKTnxW6-3" value="&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;指令控制&lt;/b&gt;&lt;/span&gt;" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fontFamily=Verdana;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="250.44" y="-1040" width="565" height="360" as="geometry" />
-        </mxCell>
-        <mxCell id="esOJimNZTuqzEGKTnxW6-6" value="播放器" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="93.99999999999994" y="-460" width="87" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="esOJimNZTuqzEGKTnxW6-7" value="楼层控制" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="203.99999999999994" y="-460" width="87" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="esOJimNZTuqzEGKTnxW6-8" value="移动端&lt;br&gt;遥控器" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="303.99999999999994" y="-460" width="87" height="180" as="geometry" />
         </mxCell>
         <mxCell id="esOJimNZTuqzEGKTnxW6-19" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-360" y="-1040" width="565" height="350" as="geometry" />
