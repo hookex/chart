@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-07T11:06:41.953Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="v83boq_f72ux_1BwvY7G" version="12.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-07T11:09:01.566Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="X6TxY-Ocv8XRfNsPjFXa" version="12.9.4" type="github">
   <diagram id="kbm905aHLV5Dr9nUJAch" name="Page-1">
     <mxGraphModel dx="4403" dy="2666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -104,7 +104,7 @@
           <mxGeometry x="-188.25" y="510" width="50.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G_mRowMAx6_Zk3fWA19y-153" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-990" y="-360" width="480" height="630" as="geometry" />
+          <mxGeometry x="-1020" y="-410" width="480" height="630" as="geometry" />
         </mxCell>
         <mxCell id="G_mRowMAx6_Zk3fWA19y-114" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;data thread&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;by redux-saga&lt;/span&gt;&lt;/div&gt;" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="G_mRowMAx6_Zk3fWA19y-153" vertex="1">
           <mxGeometry width="480" height="630" as="geometry" />
@@ -238,33 +238,20 @@
         <mxCell id="OYR4AbBBOLj8Olsny7-R-48" value="饼图" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="606.8" y="350" width="87" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="OYR4AbBBOLj8Olsny7-R-57" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-40" y="-560" width="565" height="330" as="geometry" />
-        </mxCell>
-        <mxCell id="OYR4AbBBOLj8Olsny7-R-56" value="控制组件" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="OYR4AbBBOLj8Olsny7-R-57" vertex="1">
-          <mxGeometry width="565" height="330" as="geometry" />
-        </mxCell>
-        <mxCell id="OYR4AbBBOLj8Olsny7-R-42" value="播放器" style="rounded=0;whiteSpace=wrap;html=1;" parent="OYR4AbBBOLj8Olsny7-R-57" vertex="1">
-          <mxGeometry x="74.99999999999994" y="80" width="87" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="OYR4AbBBOLj8Olsny7-R-45" value="楼层控制" style="rounded=0;whiteSpace=wrap;html=1;" parent="OYR4AbBBOLj8Olsny7-R-57" vertex="1">
-          <mxGeometry x="184.99999999999994" y="80" width="87" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="OYR4AbBBOLj8Olsny7-R-46" value="移动端&lt;br&gt;遥控器" style="rounded=0;whiteSpace=wrap;html=1;" parent="OYR4AbBBOLj8Olsny7-R-57" vertex="1">
-          <mxGeometry x="284.99999999999994" y="80" width="87" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="OYR4AbBBOLj8Olsny7-R-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OYR4AbBBOLj8Olsny7-R-56" target="G_mRowMAx6_Zk3fWA19y-114" edge="1">
+        <mxCell id="OYR4AbBBOLj8Olsny7-R-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="G_mRowMAx6_Zk3fWA19y-114" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-750" y="-395" />
             </Array>
+            <mxPoint x="-40" y="-394.9333333333334" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OYR4AbBBOLj8Olsny7-R-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OYR4AbBBOLj8Olsny7-R-56" target="G_mRowMAx6_Zk3fWA19y-127" edge="1">
+        <mxCell id="OYR4AbBBOLj8Olsny7-R-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="G_mRowMAx6_Zk3fWA19y-127" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1230" y="-395" />
             </Array>
+            <mxPoint x="525" y="-394.9333333333334" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OYR4AbBBOLj8Olsny7-R-67" value="" style="endArrow=none;dashed=1;html=1;" parent="1" edge="1">
@@ -306,6 +293,18 @@
               <mxPoint x="450" y="180" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="esOJimNZTuqzEGKTnxW6-3" value="" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="-39.99999999999999" y="-570" width="565" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="esOJimNZTuqzEGKTnxW6-6" value="播放器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="93.99999999999994" y="-460" width="87" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="esOJimNZTuqzEGKTnxW6-7" value="楼层控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="203.99999999999994" y="-460" width="87" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="esOJimNZTuqzEGKTnxW6-8" value="移动端&lt;br&gt;遥控器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="303.99999999999994" y="-460" width="87" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
