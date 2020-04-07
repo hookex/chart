@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-04-07T11:40:13.992Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="Cq539pxtVV39oYlY8jpq" version="12.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-07T11:42:09.020Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="AJOqYjjojYy3e7nl4X97" version="12.9.4" type="github">
   <diagram id="kbm905aHLV5Dr9nUJAch" name="Page-1">
     <mxGraphModel dx="4403" dy="3835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="esOJimNZTuqzEGKTnxW6-58" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
-          <mxGeometry x="-930" y="-1550" width="2140" height="460" as="geometry" />
+          <mxGeometry x="-960" y="-1550" width="2270" height="460" as="geometry" />
         </mxCell>
         <mxCell id="G_mRowMAx6_Zk3fWA19y-172" value="可视化场景" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="340" y="270" width="600" height="300" as="geometry" />
@@ -128,7 +128,7 @@
           <mxGeometry x="25.42" y="250" width="480" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G_mRowMAx6_Zk3fWA19y-154" value="" style="group;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontFamily=Verdana;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="700" y="-1040" width="480" height="630" as="geometry" />
+          <mxGeometry x="1130" y="-1030" width="480" height="630" as="geometry" />
         </mxCell>
         <mxCell id="G_mRowMAx6_Zk3fWA19y-127" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontFamily=Verdana;" parent="G_mRowMAx6_Zk3fWA19y-154" vertex="1">
           <mxGeometry width="480" height="630" as="geometry" />
@@ -237,8 +237,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="esOJimNZTuqzEGKTnxW6-3" value="" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="-39.99999999999999" y="-570" width="565" height="350" as="geometry" />
+        <mxCell id="esOJimNZTuqzEGKTnxW6-3" value="&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;指令控制&lt;/b&gt;&lt;/span&gt;" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fontFamily=Verdana;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="250.44" y="-1040" width="565" height="360" as="geometry" />
         </mxCell>
         <mxCell id="esOJimNZTuqzEGKTnxW6-6" value="播放器" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="93.99999999999994" y="-460" width="87" height="180" as="geometry" />
@@ -258,7 +258,7 @@
         <mxCell id="esOJimNZTuqzEGKTnxW6-16" value="actions" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="esOJimNZTuqzEGKTnxW6-19">
           <mxGeometry x="37" y="90" width="503" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="esOJimNZTuqzEGKTnxW6-17" value="state" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="esOJimNZTuqzEGKTnxW6-19">
+        <mxCell id="esOJimNZTuqzEGKTnxW6-17" value="设备state" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="esOJimNZTuqzEGKTnxW6-19">
           <mxGeometry x="37" y="170" width="503" height="60" as="geometry" />
         </mxCell>
         <mxCell id="esOJimNZTuqzEGKTnxW6-18" value="selectors" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="esOJimNZTuqzEGKTnxW6-19">
@@ -320,6 +320,15 @@
         </mxCell>
         <mxCell id="esOJimNZTuqzEGKTnxW6-57" value="Stream3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="878.7524999999999" y="-1309.9982978723403" width="58.723404255319146" height="58.723404255319146" as="geometry" />
+        </mxCell>
+        <mxCell id="esOJimNZTuqzEGKTnxW6-59" value="actions" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="288.79999999999995" y="-950" width="503" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="esOJimNZTuqzEGKTnxW6-60" value="state" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="285.73" y="-870" width="503" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="esOJimNZTuqzEGKTnxW6-61" value="state" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="285.73" y="-790" width="503" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
