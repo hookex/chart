@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-07T11:16:58.526Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="zHTpUAPw6s8-5IH4vj4G" version="12.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-07T11:17:30.065Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="yqCFyCexiFjFUmXXEQES" version="12.9.4" type="github">
   <diagram id="kbm905aHLV5Dr9nUJAch" name="Page-1">
     <mxGraphModel dx="4403" dy="2666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -110,16 +110,19 @@
           <mxGeometry width="530" height="360" as="geometry" />
         </mxCell>
         <mxCell id="G_mRowMAx6_Zk3fWA19y-110" value="楼层控制State" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Verdana;" parent="G_mRowMAx6_Zk3fWA19y-153" vertex="1">
-          <mxGeometry x="160" y="170" width="126.66" height="60" as="geometry" />
+          <mxGeometry x="230" y="170" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G_mRowMAx6_Zk3fWA19y-119" value="Actions" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="G_mRowMAx6_Zk3fWA19y-153" vertex="1">
           <mxGeometry x="25.42" y="100" width="474.58" height="45.71" as="geometry" />
         </mxCell>
         <mxCell id="esOJimNZTuqzEGKTnxW6-20" value="地图标准数据State" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="G_mRowMAx6_Zk3fWA19y-153">
-          <mxGeometry x="25.42" y="170" width="124.58" height="60" as="geometry" />
+          <mxGeometry x="25.42" y="170" width="194.58" height="60" as="geometry" />
         </mxCell>
         <mxCell id="esOJimNZTuqzEGKTnxW6-21" value="相机State" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Verdana;" vertex="1" parent="G_mRowMAx6_Zk3fWA19y-153">
-          <mxGeometry x="300" y="170" width="130" height="60" as="geometry" />
+          <mxGeometry x="350" y="170" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="esOJimNZTuqzEGKTnxW6-22" value="selectors" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="G_mRowMAx6_Zk3fWA19y-153">
+          <mxGeometry x="25.42" y="250" width="480" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G_mRowMAx6_Zk3fWA19y-154" value="" style="group;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fontFamily=Verdana;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="990" y="-360" width="480" height="630" as="geometry" />
