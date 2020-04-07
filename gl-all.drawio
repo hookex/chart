@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-07T11:25:24.169Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="J9f9GwyOmxDxDkW8Lq9o" version="12.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-07T11:26:23.526Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="h-Tzr47wbIHPcRl2FDNZ" version="12.9.4" type="github">
   <diagram id="kbm905aHLV5Dr9nUJAch" name="Page-1">
     <mxGraphModel dx="4403" dy="3835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -125,7 +125,7 @@
           <mxGeometry x="25.42" y="250" width="480" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G_mRowMAx6_Zk3fWA19y-154" value="" style="group;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontFamily=Verdana;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="690" y="-1214" width="480" height="630" as="geometry" />
+          <mxGeometry x="700" y="-1040" width="480" height="630" as="geometry" />
         </mxCell>
         <mxCell id="G_mRowMAx6_Zk3fWA19y-127" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontFamily=Verdana;" parent="G_mRowMAx6_Zk3fWA19y-154" vertex="1">
           <mxGeometry width="480" height="630" as="geometry" />
@@ -276,9 +276,6 @@
         <mxCell id="esOJimNZTuqzEGKTnxW6-18" value="selectors" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="esOJimNZTuqzEGKTnxW6-19">
           <mxGeometry x="37.44999999999999" y="250" width="503" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="esOJimNZTuqzEGKTnxW6-25" value="&lt;b style=&quot;white-space: normal ; font-size: 20px&quot;&gt;Effect Control by redux-saga&lt;br&gt;&lt;/b&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Verdana;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="-450" y="-1790" width="1400" height="590" as="geometry" />
-        </mxCell>
         <mxCell id="OYR4AbBBOLj8Olsny7-R-13" value="" style="group;fontFamily=Verdana;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1000" y="-1810" width="510" height="230" as="geometry" />
         </mxCell>
@@ -323,6 +320,9 @@
         </mxCell>
         <mxCell id="OYR4AbBBOLj8Olsny7-R-12" value="Stream6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Verdana;" parent="OYR4AbBBOLj8Olsny7-R-13" vertex="1">
           <mxGeometry x="393.125" y="29.361702127659573" width="58.723404255319146" height="58.723404255319146" as="geometry" />
+        </mxCell>
+        <mxCell id="esOJimNZTuqzEGKTnxW6-34" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="-940" y="-1450" width="2035" height="330" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
