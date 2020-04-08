@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-08T07:37:28.645Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="65cU3GBA3Vk92OUqg9xR" version="12.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-08T07:38:14.223Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="li9ny7GJcRGchUuesgQ3" version="12.9.4" type="github">
   <diagram id="kbm905aHLV5Dr9nUJAch" name="Page-1">
     <mxGraphModel dx="3576" dy="2601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -214,22 +214,22 @@
         <mxCell id="lYB_4dRALKVZFrLRTpmS-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2BD42;strokeColor=#82b366;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="-470" y="-720" width="1590" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="lYB_4dRALKVZFrLRTpmS-38" value="HTTP Loader" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-460" y="-410" width="668.72" height="36.95" as="geometry" />
+        <mxCell id="lYB_4dRALKVZFrLRTpmS-38" value="HTTP Loader" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;strokeColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-458.36" y="-430" width="668.72" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="lYB_4dRALKVZFrLRTpmS-39" value="WebSocket Live Loader" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="224.02" y="-410" width="885.98" height="40" as="geometry" />
+        <mxCell id="lYB_4dRALKVZFrLRTpmS-39" value="WebSocket Live Loader" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;strokeColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="224.02" y="-430" width="885.98" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lYB_4dRALKVZFrLRTpmS-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lYB_4dRALKVZFrLRTpmS-39" target="lYB_4dRALKVZFrLRTpmS-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lYB_4dRALKVZFrLRTpmS-43" value="设备数据" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="lYB_4dRALKVZFrLRTpmS-43" value="设备数据" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-162.49" y="-569.99" width="129.78" height="91.95" as="geometry" />
         </mxCell>
-        <mxCell id="lYB_4dRALKVZFrLRTpmS-40" value="全局配置信息" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="lYB_4dRALKVZFrLRTpmS-40" value="全局配置信息" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-437.28000000000003" y="-570" width="127.72" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="lYB_4dRALKVZFrLRTpmS-41" value="地图数据" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="lYB_4dRALKVZFrLRTpmS-41" value="地图数据" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-295.46999999999997" y="-570" width="115.82" height="91.96" as="geometry" />
         </mxCell>
         <mxCell id="lYB_4dRALKVZFrLRTpmS-31" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 24px&quot;&gt;标准动态数据协议&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontSize=12;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontFamily=Verdana;strokeColor=none;" vertex="1" parent="1">
@@ -343,8 +343,8 @@
         <mxCell id="lYB_4dRALKVZFrLRTpmS-176" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/fatcow/32/connect.png;rounded=0;shadow=1;glass=0;comic=0;strokeColor=#000000;strokeWidth=1;fillColor=none;fontSize=14;fontColor=#4D4D4D;rotation=-45;" vertex="1" parent="1">
           <mxGeometry x="-214" y="1154" width="32" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="lYB_4dRALKVZFrLRTpmS-182" value="数据预处理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-459.11" y="-360" width="1569.11" height="26.95" as="geometry" />
+        <mxCell id="lYB_4dRALKVZFrLRTpmS-182" value="数据预处理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;strokeColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-459.11" y="-370" width="1569.11" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lYB_4dRALKVZFrLRTpmS-185" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="370" y="-534" width="529.99" height="84.92000000000002" as="geometry" />
