@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-07-10T05:41:37.696Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="sr3t4nqMuE2td9wdvaIb" version="13.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-10T05:46:41.118Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="FhCxEZpEcMOmIvzvhqsU" version="13.4.1" type="github">
   <diagram id="zfksT3eoctR7wF4i4gyv" name="Page-1">
-    <mxGraphModel dx="1426" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="679" dy="344" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -64,7 +64,7 @@
         <mxCell id="G8F1h2zgY8iMUg6pUyBb-24" value="储位位置" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="225" y="380" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="G8F1h2zgY8iMUg6pUyBb-25" value="操作点位置" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="G8F1h2zgY8iMUg6pUyBb-25" value="操作点位置" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="210" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="G8F1h2zgY8iMUg6pUyBb-28" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
@@ -87,6 +87,21 @@
             <mxPoint x="260" y="370" as="sourcePoint" />
             <mxPoint x="308" y="240" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="G8F1h2zgY8iMUg6pUyBb-36" value="货架位置 =&amp;nbsp; (操作点位置 * 弧度) + ((货架长度/8)*3)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="610" width="410" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G8F1h2zgY8iMUg6pUyBb-38" value="" style="curved=1;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="370" as="sourcePoint" />
+            <mxPoint x="270" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G8F1h2zgY8iMUg6pUyBb-39" value="&lt;font style=&quot;font-size: 11px&quot;&gt;弧度&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="268" y="340" width="30" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
