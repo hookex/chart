@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-07-12T09:46:54.849Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="n9Y4Ph7WlmPB9p5oclqc" version="12.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-12T09:47:03.060Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="OzC1_TBFZrJ-3loljfjU" version="12.9.3" type="github">
   <diagram id="kbm905aHLV5Dr9nUJAch" name="Page-1">
-    <mxGraphModel dx="2106" dy="2013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1722" dy="1760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -485,7 +485,7 @@
           <mxGeometry x="-521.25" y="600" width="860.75" height="990" as="geometry" />
         </mxCell>
         <mxCell id="QesI7u1L_WgdvTfQqV23-141" value="Storey Container 楼层容器" style="swimlane;fillColor=#7AA860;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-147">
-          <mxGeometry y="90" width="860.75" height="760" as="geometry" />
+          <mxGeometry y="90" width="860.75" height="900" as="geometry" />
         </mxCell>
         <mxCell id="QesI7u1L_WgdvTfQqV23-99" value="" style="group;labelPosition=right;verticalLabelPosition=middle;align=center;verticalAlign=middle;textDirection=rtl;" vertex="1" connectable="0" parent="QesI7u1L_WgdvTfQqV23-141">
           <mxGeometry x="9" y="35" width="135" height="40" as="geometry" />
@@ -534,6 +534,9 @@
         </mxCell>
         <mxCell id="QesI7u1L_WgdvTfQqV23-166" value="元素工厂容器（多种类型元素）" style="swimlane;fillColor=#7AA860;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-146">
           <mxGeometry x="8.75" y="190" width="771.25" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-170" value="Map Container容器" style="swimlane;fillColor=#7AA860;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-141">
+          <mxGeometry x="-8.75" width="869.5" height="900" as="geometry" />
         </mxCell>
         <mxCell id="QesI7u1L_WgdvTfQqV23-156" value="Edges路容器" style="swimlane;fillColor=#7AA860;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-147">
           <mxGeometry x="196.75" y="268" width="161.25" height="87" as="geometry" />
@@ -591,9 +594,6 @@
         </mxCell>
         <mxCell id="QesI7u1L_WgdvTfQqV23-217" value="单类型元素" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-181">
           <mxGeometry x="76.12" y="63" width="63.88" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="QesI7u1L_WgdvTfQqV23-170" value="Map Container容器" style="swimlane;fillColor=#7AA860;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-147">
-          <mxGeometry x="-8.75" y="120" width="869.5" height="750" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
