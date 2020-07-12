@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-12T09:20:46.783Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="Cua0z2wt-bLJDGOPKw0v" version="12.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-12T09:27:42.404Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="WxMRERuwsthbBMV4aBCW" version="12.9.3" type="github">
   <diagram id="kbm905aHLV5Dr9nUJAch" name="Page-1">
     <mxGraphModel dx="1880" dy="1864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,9 +15,6 @@
         </mxCell>
         <mxCell id="G_mRowMAx6_Zk3fWA19y-107" value="地图树" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="-417.96" y="320" width="375.5" height="220" as="geometry" />
-        </mxCell>
-        <mxCell id="G_mRowMAx6_Zk3fWA19y-64" value="connect by react-reconciler" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Verdana;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="62.25" y="1200" width="210" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Kp7RcIrqSu2gTxTqtwUE-27" value="楼层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="-390" y="360" width="310" height="30" as="geometry" />
@@ -484,7 +481,7 @@
         <mxCell id="QesI7u1L_WgdvTfQqV23-102" value="" style="group;labelPosition=right;verticalLabelPosition=middle;align=center;verticalAlign=middle;textDirection=rtl;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-520" y="890" width="135" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QesI7u1L_WgdvTfQqV23-103" value="House子仓" style="rounded=1;whiteSpace=wrap;html=1;align=right;spacingRight=6;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-102">
+        <mxCell id="QesI7u1L_WgdvTfQqV23-103" value="House子仓1" style="rounded=1;whiteSpace=wrap;html=1;align=right;spacingRight=6;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-102">
           <mxGeometry width="135" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QesI7u1L_WgdvTfQqV23-104" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/line-hero-essentials/32/Essentials_puzzle_component-128.png;fillColor=#7AA860;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-102">
@@ -509,13 +506,52 @@
           <mxGeometry x="10" y="5" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QesI7u1L_WgdvTfQqV23-114" value="" style="group;labelPosition=right;verticalLabelPosition=middle;align=center;verticalAlign=middle;textDirection=rtl;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-230" y="940" width="135" height="40" as="geometry" />
+          <mxGeometry x="-60" y="940" width="150" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="QesI7u1L_WgdvTfQqV23-115" value="Element集合" style="rounded=1;whiteSpace=wrap;html=1;align=right;spacingRight=6;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-114">
-          <mxGeometry y="1" width="135" height="40" as="geometry" />
+        <mxCell id="QesI7u1L_WgdvTfQqV23-115" value="Element工厂集合" style="rounded=1;whiteSpace=wrap;html=1;align=right;spacingRight=6;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-114">
+          <mxGeometry y="1" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QesI7u1L_WgdvTfQqV23-116" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/line-hero-essentials/32/Essentials_puzzle_component-128.png;fillColor=#7AA860;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-114">
           <mxGeometry x="10" y="5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-120" value="" style="group;labelPosition=right;verticalLabelPosition=middle;align=center;verticalAlign=middle;textDirection=rtl;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-370" y="890" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-121" value="House子仓2" style="rounded=1;whiteSpace=wrap;html=1;align=right;spacingRight=6;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-120">
+          <mxGeometry width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-122" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/line-hero-essentials/32/Essentials_puzzle_component-128.png;fillColor=#7AA860;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-120">
+          <mxGeometry x="10" y="5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-123" value="" style="group;labelPosition=right;verticalLabelPosition=middle;align=center;verticalAlign=middle;textDirection=rtl;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-220" y="890" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-124" value="House子仓..." style="rounded=1;whiteSpace=wrap;html=1;align=right;spacingRight=6;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-123">
+          <mxGeometry width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-125" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/line-hero-essentials/32/Essentials_puzzle_component-128.png;fillColor=#7AA860;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-123">
+          <mxGeometry x="10" y="5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-126" value="" style="group;labelPosition=right;verticalLabelPosition=middle;align=center;verticalAlign=middle;textDirection=rtl;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-220" y="940" width="150" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-127" value="CTU料箱点集合" style="rounded=1;whiteSpace=wrap;html=1;align=right;spacingRight=6;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-126">
+          <mxGeometry y="1" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-128" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/line-hero-essentials/32/Essentials_puzzle_component-128.png;fillColor=#7AA860;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-126">
+          <mxGeometry x="10" y="5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-135" value="" style="group;labelPosition=right;verticalLabelPosition=middle;align=center;verticalAlign=middle;textDirection=rtl;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-510" y="1000" width="770" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-136" value="Hetu Engine" style="rounded=1;whiteSpace=wrap;html=1;align=center;spacingRight=6;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-135">
+          <mxGeometry width="769.9999999999999" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-139" value="" style="group;labelPosition=right;verticalLabelPosition=middle;align=center;verticalAlign=middle;textDirection=rtl;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-510" y="1050" width="770" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-140" value="Scene" style="rounded=1;whiteSpace=wrap;html=1;align=center;spacingRight=6;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-139">
+          <mxGeometry width="769.9999999999999" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
