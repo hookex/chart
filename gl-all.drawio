@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-07-12T09:58:21.434Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="ruzv8fKyp5nswIYDUGP7" version="12.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-12T09:59:27.471Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="uFdWE4PIdu4KrrTJTYhN" version="12.9.3" type="github">
   <diagram id="kbm905aHLV5Dr9nUJAch" name="Page-1">
     <mxGraphModel dx="2319" dy="4492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="QesI7u1L_WgdvTfQqV23-170" value="Map Container容器" style="swimlane;fillColor=#7AA860;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-530" y="690" width="930" height="960" as="geometry" />
+          <mxGeometry x="540.19" y="520" width="930" height="960" as="geometry" />
         </mxCell>
         <mxCell id="QesI7u1L_WgdvTfQqV23-147" value="" style="group" vertex="1" connectable="0" parent="QesI7u1L_WgdvTfQqV23-170">
           <mxGeometry x="19.189999999999998" y="10" width="840" height="760" as="geometry" />
@@ -550,20 +550,26 @@
         <mxCell id="QesI7u1L_WgdvTfQqV23-140" value="Scene" style="rounded=1;whiteSpace=wrap;html=1;align=center;spacingRight=6;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-139">
           <mxGeometry width="769.9999999999999" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QesI7u1L_WgdvTfQqV23-226" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-533" y="340" width="923" height="295" as="geometry" />
+        <mxCell id="QesI7u1L_WgdvTfQqV23-237" value="Map.gl" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_elastic_beanstalk;strokeColor=#D86613;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#D86613;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="100" width="1020" height="1420" as="geometry" />
         </mxCell>
-        <mxCell id="QesI7u1L_WgdvTfQqV23-228" value="范式化State" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-488" y="500" width="778" height="40" as="geometry" />
+        <mxCell id="QesI7u1L_WgdvTfQqV23-238" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="560" y="150" width="923" height="295" as="geometry" />
         </mxCell>
-        <mxCell id="QesI7u1L_WgdvTfQqV23-229" value="Reselector记忆化选择器" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-488" y="570" width="778" height="40" as="geometry" />
+        <mxCell id="QesI7u1L_WgdvTfQqV23-226" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-238">
+          <mxGeometry width="923" height="295" as="geometry" />
         </mxCell>
-        <mxCell id="QesI7u1L_WgdvTfQqV23-230" value="Actions" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-490" y="430" width="783.75" height="40" as="geometry" />
+        <mxCell id="QesI7u1L_WgdvTfQqV23-228" value="范式化State" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-238">
+          <mxGeometry x="45" y="160" width="778" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QesI7u1L_WgdvTfQqV23-231" value="Store" style="shape=datastore;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-516" y="350" width="60" height="60" as="geometry" />
+        <mxCell id="QesI7u1L_WgdvTfQqV23-229" value="Reselector记忆化选择器" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-238">
+          <mxGeometry x="45" y="230" width="778" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-230" value="Actions" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-238">
+          <mxGeometry x="43" y="90" width="783.75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-231" value="Store" style="shape=datastore;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-238">
+          <mxGeometry x="17" y="10" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
