@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-12T09:45:15.704Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="1y-xJjDN78ywN0O5jfQb" version="12.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-12T09:46:19.794Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="jkPxnXKdTKjQ3L6J_Vjg" version="12.9.3" type="github">
   <diagram id="kbm905aHLV5Dr9nUJAch" name="Page-1">
     <mxGraphModel dx="2106" dy="2013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -535,7 +535,7 @@
         <mxCell id="QesI7u1L_WgdvTfQqV23-164" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/line-hero-essentials/32/Essentials_puzzle_component-128.png;fillColor=#7AA860;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-162">
           <mxGeometry x="10" y="5" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QesI7u1L_WgdvTfQqV23-166" value="元素工厂容器" style="swimlane;fillColor=#7AA860;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-146">
+        <mxCell id="QesI7u1L_WgdvTfQqV23-166" value="元素工厂容器（多种类型元素）" style="swimlane;fillColor=#7AA860;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-146">
           <mxGeometry x="8.75" y="190" width="771.25" height="430" as="geometry" />
         </mxCell>
         <mxCell id="QesI7u1L_WgdvTfQqV23-171" value="" style="group;labelPosition=right;verticalLabelPosition=middle;align=center;verticalAlign=middle;textDirection=rtl;" vertex="1" connectable="0" parent="QesI7u1L_WgdvTfQqV23-147">
@@ -560,10 +560,10 @@
           <mxGeometry x="10" y="5" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QesI7u1L_WgdvTfQqV23-175" value="元素配置（业务类型和显示类型一一对应）" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-147">
-          <mxGeometry x="45.129999999999995" y="410" width="716.5" height="60" as="geometry" />
+          <mxGeometry x="51.24999999999999" y="520" width="716.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QesI7u1L_WgdvTfQqV23-177" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/set-app-incredibles/24/Configuration-01-128.png;fillColor=#7AA860;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-147">
-          <mxGeometry x="51.25" y="420.5" width="39" height="39" as="geometry" />
+          <mxGeometry x="69.25" y="530" width="39" height="39" as="geometry" />
         </mxCell>
         <mxCell id="QesI7u1L_WgdvTfQqV23-181" value="" style="group;labelPosition=right;verticalLabelPosition=middle;align=center;verticalAlign=middle;textDirection=rtl;" vertex="1" connectable="0" parent="QesI7u1L_WgdvTfQqV23-147">
           <mxGeometry x="45.13" y="569" width="714.87" height="190" as="geometry" />
@@ -600,6 +600,9 @@
         </mxCell>
         <mxCell id="QesI7u1L_WgdvTfQqV23-199" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/line-hero-essentials/32/Essentials_puzzle_component-128.png;fillColor=#7AA860;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-215">
           <mxGeometry x="10" y="5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-217" value="单类型元素" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-181">
+          <mxGeometry x="76.12" y="63" width="63.88" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
