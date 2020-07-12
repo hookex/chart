@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-12T09:53:16.721Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="IWS2ngQC6WQeg9zvHcXi" version="12.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-12T09:54:18.782Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="AE9cGcPlBjNp52wDZYDz" version="12.9.3" type="github">
   <diagram id="kbm905aHLV5Dr9nUJAch" name="Page-1">
     <mxGraphModel dx="1880" dy="4202" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -554,13 +554,19 @@
           <mxGeometry x="358.5" y="1193" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QesI7u1L_WgdvTfQqV23-226" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-533" y="360" width="873" height="275" as="geometry" />
+          <mxGeometry x="-533" y="340" width="873" height="295" as="geometry" />
         </mxCell>
         <mxCell id="QesI7u1L_WgdvTfQqV23-228" value="范式化State" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-488" y="380" width="778" height="40" as="geometry" />
+          <mxGeometry x="-488" y="500" width="778" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QesI7u1L_WgdvTfQqV23-229" value="Reselector记忆化选择器" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-488" y="570" width="778" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-230" value="Actions" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="430" width="783.75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-231" value="Store" style="shape=datastore;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-516" y="350" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
