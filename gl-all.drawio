@@ -1,132 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2020-07-12T09:59:27.471Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="uFdWE4PIdu4KrrTJTYhN" version="12.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-12T10:00:34.447Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="LlDRl4cXbI-AlzmL24r6" version="12.9.3" type="github">
   <diagram id="kbm905aHLV5Dr9nUJAch" name="Page-1">
-    <mxGraphModel dx="2319" dy="4492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2617" dy="4689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QesI7u1L_WgdvTfQqV23-170" value="Map Container容器" style="swimlane;fillColor=#7AA860;align=center;" vertex="1" parent="1">
-          <mxGeometry x="540.19" y="520" width="930" height="960" as="geometry" />
-        </mxCell>
-        <mxCell id="QesI7u1L_WgdvTfQqV23-147" value="" style="group" vertex="1" connectable="0" parent="QesI7u1L_WgdvTfQqV23-170">
-          <mxGeometry x="19.189999999999998" y="10" width="840" height="760" as="geometry" />
-        </mxCell>
-        <mxCell id="QesI7u1L_WgdvTfQqV23-141" value="Storey Container 楼层容器" style="swimlane;fillColor=#7AA860;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-147">
-          <mxGeometry y="90" width="840" height="760" as="geometry" />
-        </mxCell>
-        <mxCell id="QesI7u1L_WgdvTfQqV23-99" value="" style="group;labelPosition=right;verticalLabelPosition=middle;align=center;verticalAlign=middle;textDirection=rtl;" vertex="1" connectable="0" parent="QesI7u1L_WgdvTfQqV23-141">
-          <mxGeometry x="9" y="35" width="135" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="QesI7u1L_WgdvTfQqV23-100" value="Storey楼层" style="rounded=1;whiteSpace=wrap;html=1;align=right;spacingRight=6;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-99">
-          <mxGeometry width="135" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="QesI7u1L_WgdvTfQqV23-101" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/line-hero-essentials/32/Essentials_puzzle_component-128.png;fillColor=#7AA860;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-99">
-          <mxGeometry x="10" y="5" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QesI7u1L_WgdvTfQqV23-146" value="House子仓容器" style="swimlane;fillColor=#7AA860;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-141">
-          <mxGeometry x="9" y="90" width="811" height="650" as="geometry" />
-        </mxCell>
-        <mxCell id="QesI7u1L_WgdvTfQqV23-102" value="" style="group;labelPosition=right;verticalLabelPosition=middle;align=center;verticalAlign=middle;textDirection=rtl;" vertex="1" connectable="0" parent="QesI7u1L_WgdvTfQqV23-146">
-          <mxGeometry x="8.75" y="34" width="135" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="QesI7u1L_WgdvTfQqV23-103" value="House子仓" style="rounded=1;whiteSpace=wrap;html=1;align=right;spacingRight=6;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-102">
-          <mxGeometry width="135" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="QesI7u1L_WgdvTfQqV23-104" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/line-hero-essentials/32/Essentials_puzzle_component-128.png;fillColor=#7AA860;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-102">
-          <mxGeometry x="10" y="5" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QesI7u1L_WgdvTfQqV23-149" value="Points点容器" style="swimlane;fillColor=#7AA860;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-146">
-          <mxGeometry x="8.75" y="83" width="161.25" height="87" as="geometry" />
-        </mxCell>
-        <mxCell id="QesI7u1L_WgdvTfQqV23-108" value="" style="group;labelPosition=right;verticalLabelPosition=middle;align=center;verticalAlign=middle;textDirection=rtl;" vertex="1" connectable="0" parent="QesI7u1L_WgdvTfQqV23-149">
-          <mxGeometry x="9.5" y="32" width="135" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="QesI7u1L_WgdvTfQqV23-109" value="Point点集合" style="rounded=1;whiteSpace=wrap;html=1;align=right;spacingRight=6;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-108">
-          <mxGeometry width="135" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="QesI7u1L_WgdvTfQqV23-110" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/line-hero-essentials/32/Essentials_puzzle_component-128.png;fillColor=#7AA860;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-108">
-          <mxGeometry x="10" y="5" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QesI7u1L_WgdvTfQqV23-161" value="CTU料箱点容器" style="swimlane;fillColor=#7AA860;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-146">
-          <mxGeometry x="362.25" y="83" width="161.25" height="87" as="geometry" />
-        </mxCell>
-        <mxCell id="QesI7u1L_WgdvTfQqV23-162" value="" style="group;labelPosition=right;verticalLabelPosition=middle;align=center;verticalAlign=middle;textDirection=rtl;" vertex="1" connectable="0" parent="QesI7u1L_WgdvTfQqV23-161">
-          <mxGeometry x="9.5" y="32" width="135" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="QesI7u1L_WgdvTfQqV23-163" value="CTU料箱点集合" style="rounded=1;whiteSpace=wrap;html=1;align=right;spacingRight=6;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-162">
-          <mxGeometry width="135" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="QesI7u1L_WgdvTfQqV23-164" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/line-hero-essentials/32/Essentials_puzzle_component-128.png;fillColor=#7AA860;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-162">
-          <mxGeometry x="10" y="5" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QesI7u1L_WgdvTfQqV23-166" value="元素工厂容器（多种类型元素）" style="swimlane;fillColor=#7AA860;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-146">
-          <mxGeometry x="8.75" y="190" width="771.25" height="430" as="geometry" />
-        </mxCell>
-        <mxCell id="QesI7u1L_WgdvTfQqV23-171" value="" style="group;labelPosition=right;verticalLabelPosition=middle;align=center;verticalAlign=middle;textDirection=rtl;" vertex="1" connectable="0" parent="QesI7u1L_WgdvTfQqV23-147">
-          <mxGeometry y="30" width="135" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="QesI7u1L_WgdvTfQqV23-172" value="Storey楼层" style="rounded=1;whiteSpace=wrap;html=1;align=right;spacingRight=6;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-171">
-          <mxGeometry width="135" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="QesI7u1L_WgdvTfQqV23-173" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/line-hero-essentials/32/Essentials_puzzle_component-128.png;fillColor=#7AA860;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-171">
-          <mxGeometry x="10" y="5" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QesI7u1L_WgdvTfQqV23-156" value="Edges路容器" style="swimlane;fillColor=#7AA860;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-147">
-          <mxGeometry x="196.75" y="268" width="161.25" height="87" as="geometry" />
-        </mxCell>
-        <mxCell id="QesI7u1L_WgdvTfQqV23-157" value="" style="group;labelPosition=right;verticalLabelPosition=middle;align=center;verticalAlign=middle;textDirection=rtl;" vertex="1" connectable="0" parent="QesI7u1L_WgdvTfQqV23-156">
-          <mxGeometry x="9.5" y="32" width="135" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="QesI7u1L_WgdvTfQqV23-158" value="Edges路集合" style="rounded=1;whiteSpace=wrap;html=1;align=right;spacingRight=6;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-157">
-          <mxGeometry width="135" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="QesI7u1L_WgdvTfQqV23-159" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/line-hero-essentials/32/Essentials_puzzle_component-128.png;fillColor=#7AA860;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-157">
-          <mxGeometry x="10" y="5" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QesI7u1L_WgdvTfQqV23-175" value="元素配置（业务类型和显示类型一一对应）" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-147">
-          <mxGeometry x="51.24999999999999" y="520" width="716.5" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="QesI7u1L_WgdvTfQqV23-177" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/set-app-incredibles/24/Configuration-01-128.png;fillColor=#7AA860;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-147">
-          <mxGeometry x="69.25" y="530" width="39" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="QesI7u1L_WgdvTfQqV23-181" value="" style="group;labelPosition=right;verticalLabelPosition=middle;align=center;verticalAlign=middle;textDirection=rtl;" vertex="1" connectable="0" parent="QesI7u1L_WgdvTfQqV23-147">
-          <mxGeometry x="45.13" y="569" width="714.87" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="QesI7u1L_WgdvTfQqV23-182" value="" style="rounded=1;whiteSpace=wrap;html=1;align=right;spacingRight=6;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-181">
-          <mxGeometry y="40" width="714.87" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="QesI7u1L_WgdvTfQqV23-183" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/line-hero-essentials/32/Essentials_puzzle_component-128.png;fillColor=#7AA860;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-181">
-          <mxGeometry x="16.120000000000005" y="50" width="46.25" height="46.25" as="geometry" />
-        </mxCell>
-        <mxCell id="QesI7u1L_WgdvTfQqV23-192" value="" style="group;labelPosition=right;verticalLabelPosition=middle;align=center;verticalAlign=middle;textDirection=rtl;" vertex="1" connectable="0" parent="QesI7u1L_WgdvTfQqV23-181">
-          <mxGeometry x="66.12" y="100" width="135" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="QesI7u1L_WgdvTfQqV23-193" value="模型(批处理)" style="rounded=1;whiteSpace=wrap;html=1;align=right;spacingRight=6;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-192">
-          <mxGeometry width="135" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="QesI7u1L_WgdvTfQqV23-194" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/line-hero-essentials/32/Essentials_puzzle_component-128.png;fillColor=#7AA860;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-192">
-          <mxGeometry x="10" y="5" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QesI7u1L_WgdvTfQqV23-202" value="" style="group" vertex="1" connectable="0" parent="QesI7u1L_WgdvTfQqV23-181">
-          <mxGeometry x="476.12" y="100" width="135" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="QesI7u1L_WgdvTfQqV23-195" value="图片(批处理)" style="rounded=1;whiteSpace=wrap;html=1;align=right;spacingRight=6;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-202">
-          <mxGeometry width="135" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="QesI7u1L_WgdvTfQqV23-200" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/line-hero-essentials/32/Essentials_puzzle_component-128.png;fillColor=#7AA860;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-202">
-          <mxGeometry x="4" y="5" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QesI7u1L_WgdvTfQqV23-215" value="" style="group" vertex="1" connectable="0" parent="QesI7u1L_WgdvTfQqV23-181">
-          <mxGeometry x="289.94" y="100" width="135" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="QesI7u1L_WgdvTfQqV23-191" value="&lt;div&gt;&lt;span&gt;模型&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=right;spacingRight=6;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-215">
-          <mxGeometry width="135" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="QesI7u1L_WgdvTfQqV23-199" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/line-hero-essentials/32/Essentials_puzzle_component-128.png;fillColor=#7AA860;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-215">
-          <mxGeometry x="10" y="5" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QesI7u1L_WgdvTfQqV23-217" value="单类型元素" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-181">
-          <mxGeometry x="76.12" y="63" width="63.88" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="Qb2TL99q_MYCM1XcV-fh-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4F86EC;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-480" y="-1696" width="1590" height="470" as="geometry" />
         </mxCell>
@@ -272,7 +149,7 @@
           <mxGeometry x="-540" y="-1396" width="40" height="120" as="geometry" />
         </mxCell>
         <mxCell id="lYB_4dRALKVZFrLRTpmS-71" value="底层依赖" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="-592.32" y="2210" width="40" height="120" as="geometry" />
+          <mxGeometry x="-600" y="2520" width="40" height="120" as="geometry" />
         </mxCell>
         <mxCell id="lYB_4dRALKVZFrLRTpmS-95" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/smallicons-logotypes/32/android-128.png;rounded=0;shadow=1;glass=0;comic=0;strokeColor=#000000;strokeWidth=1;fillColor=none;fontSize=24;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="-10" y="-1344" width="60" height="60" as="geometry" />
@@ -294,9 +171,6 @@
         </mxCell>
         <mxCell id="lYB_4dRALKVZFrLRTpmS-101" value="场景控制" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="157.33" y="-1279" width="85.35" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="lYB_4dRALKVZFrLRTpmS-102" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;comic=0;fontSize=24;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="976" y="890" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lYB_4dRALKVZFrLRTpmS-104" value="&lt;font style=&quot;font-size: 14px&quot;&gt;文字信息&lt;br&gt;&lt;/font&gt;" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.text_size;fillColor=#007AFF;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;rounded=0;glass=0;comic=0;" parent="1" vertex="1">
           <mxGeometry x="458.87" y="-1378" width="68" height="70" as="geometry" />
@@ -362,7 +236,7 @@
           <mxGeometry x="1510" y="-1611" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QesI7u1L_WgdvTfQqV23-28" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-516.32" y="2040" width="764" height="460" as="geometry" />
+          <mxGeometry x="-524" y="2350" width="764" height="460" as="geometry" />
         </mxCell>
         <mxCell id="Qb2TL99q_MYCM1XcV-fh-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#58A55C;strokeColor=#82b366;fontSize=14;" parent="QesI7u1L_WgdvTfQqV23-28" vertex="1">
           <mxGeometry y="20" width="764" height="440" as="geometry" />
@@ -550,11 +424,143 @@
         <mxCell id="QesI7u1L_WgdvTfQqV23-140" value="Scene" style="rounded=1;whiteSpace=wrap;html=1;align=center;spacingRight=6;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-139">
           <mxGeometry width="769.9999999999999" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QesI7u1L_WgdvTfQqV23-237" value="Map.gl" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_elastic_beanstalk;strokeColor=#D86613;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#D86613;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="100" width="1020" height="1420" as="geometry" />
+        <mxCell id="QesI7u1L_WgdvTfQqV23-241" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-547.95" y="60" width="1020" height="1420" as="geometry" />
         </mxCell>
-        <mxCell id="QesI7u1L_WgdvTfQqV23-238" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="560" y="150" width="923" height="295" as="geometry" />
+        <mxCell id="QesI7u1L_WgdvTfQqV23-239" value="" style="group" vertex="1" connectable="0" parent="QesI7u1L_WgdvTfQqV23-241">
+          <mxGeometry width="1020" height="1420" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-170" value="Map Container容器" style="swimlane;fillColor=#7AA860;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-239">
+          <mxGeometry x="30.190000000000055" y="420" width="930" height="960" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-147" value="" style="group" vertex="1" connectable="0" parent="QesI7u1L_WgdvTfQqV23-170">
+          <mxGeometry x="19.189999999999998" y="10" width="840" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-141" value="Storey Container 楼层容器" style="swimlane;fillColor=#7AA860;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-147">
+          <mxGeometry y="90" width="840" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-99" value="" style="group;labelPosition=right;verticalLabelPosition=middle;align=center;verticalAlign=middle;textDirection=rtl;" vertex="1" connectable="0" parent="QesI7u1L_WgdvTfQqV23-141">
+          <mxGeometry x="9" y="35" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-100" value="Storey楼层" style="rounded=1;whiteSpace=wrap;html=1;align=right;spacingRight=6;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-99">
+          <mxGeometry width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-101" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/line-hero-essentials/32/Essentials_puzzle_component-128.png;fillColor=#7AA860;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-99">
+          <mxGeometry x="10" y="5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-146" value="House子仓容器" style="swimlane;fillColor=#7AA860;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-141">
+          <mxGeometry x="9" y="90" width="811" height="650" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-102" value="" style="group;labelPosition=right;verticalLabelPosition=middle;align=center;verticalAlign=middle;textDirection=rtl;" vertex="1" connectable="0" parent="QesI7u1L_WgdvTfQqV23-146">
+          <mxGeometry x="8.75" y="34" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-103" value="House子仓" style="rounded=1;whiteSpace=wrap;html=1;align=right;spacingRight=6;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-102">
+          <mxGeometry width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-104" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/line-hero-essentials/32/Essentials_puzzle_component-128.png;fillColor=#7AA860;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-102">
+          <mxGeometry x="10" y="5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-149" value="Points点容器" style="swimlane;fillColor=#7AA860;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-146">
+          <mxGeometry x="8.75" y="83" width="161.25" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-108" value="" style="group;labelPosition=right;verticalLabelPosition=middle;align=center;verticalAlign=middle;textDirection=rtl;" vertex="1" connectable="0" parent="QesI7u1L_WgdvTfQqV23-149">
+          <mxGeometry x="9.5" y="32" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-109" value="Point点集合" style="rounded=1;whiteSpace=wrap;html=1;align=right;spacingRight=6;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-108">
+          <mxGeometry width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-110" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/line-hero-essentials/32/Essentials_puzzle_component-128.png;fillColor=#7AA860;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-108">
+          <mxGeometry x="10" y="5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-161" value="CTU料箱点容器" style="swimlane;fillColor=#7AA860;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-146">
+          <mxGeometry x="362.25" y="83" width="161.25" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-162" value="" style="group;labelPosition=right;verticalLabelPosition=middle;align=center;verticalAlign=middle;textDirection=rtl;" vertex="1" connectable="0" parent="QesI7u1L_WgdvTfQqV23-161">
+          <mxGeometry x="9.5" y="32" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-163" value="CTU料箱点集合" style="rounded=1;whiteSpace=wrap;html=1;align=right;spacingRight=6;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-162">
+          <mxGeometry width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-164" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/line-hero-essentials/32/Essentials_puzzle_component-128.png;fillColor=#7AA860;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-162">
+          <mxGeometry x="10" y="5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-166" value="元素工厂容器（多种类型元素）" style="swimlane;fillColor=#7AA860;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-146">
+          <mxGeometry x="8.75" y="190" width="771.25" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-171" value="" style="group;labelPosition=right;verticalLabelPosition=middle;align=center;verticalAlign=middle;textDirection=rtl;" vertex="1" connectable="0" parent="QesI7u1L_WgdvTfQqV23-147">
+          <mxGeometry y="30" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-172" value="Storey楼层" style="rounded=1;whiteSpace=wrap;html=1;align=right;spacingRight=6;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-171">
+          <mxGeometry width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-173" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/line-hero-essentials/32/Essentials_puzzle_component-128.png;fillColor=#7AA860;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-171">
+          <mxGeometry x="10" y="5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-156" value="Edges路容器" style="swimlane;fillColor=#7AA860;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-147">
+          <mxGeometry x="196.75" y="268" width="161.25" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-157" value="" style="group;labelPosition=right;verticalLabelPosition=middle;align=center;verticalAlign=middle;textDirection=rtl;" vertex="1" connectable="0" parent="QesI7u1L_WgdvTfQqV23-156">
+          <mxGeometry x="9.5" y="32" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-158" value="Edges路集合" style="rounded=1;whiteSpace=wrap;html=1;align=right;spacingRight=6;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-157">
+          <mxGeometry width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-159" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/line-hero-essentials/32/Essentials_puzzle_component-128.png;fillColor=#7AA860;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-157">
+          <mxGeometry x="10" y="5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-175" value="元素配置（业务类型和显示类型一一对应）" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-147">
+          <mxGeometry x="51.24999999999999" y="520" width="716.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-177" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/set-app-incredibles/24/Configuration-01-128.png;fillColor=#7AA860;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-147">
+          <mxGeometry x="69.25" y="530" width="39" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-181" value="" style="group;labelPosition=right;verticalLabelPosition=middle;align=center;verticalAlign=middle;textDirection=rtl;" vertex="1" connectable="0" parent="QesI7u1L_WgdvTfQqV23-147">
+          <mxGeometry x="45.13" y="569" width="714.87" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-182" value="" style="rounded=1;whiteSpace=wrap;html=1;align=right;spacingRight=6;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-181">
+          <mxGeometry y="40" width="714.87" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-183" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/line-hero-essentials/32/Essentials_puzzle_component-128.png;fillColor=#7AA860;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-181">
+          <mxGeometry x="16.120000000000005" y="50" width="46.25" height="46.25" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-192" value="" style="group;labelPosition=right;verticalLabelPosition=middle;align=center;verticalAlign=middle;textDirection=rtl;" vertex="1" connectable="0" parent="QesI7u1L_WgdvTfQqV23-181">
+          <mxGeometry x="66.12" y="100" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-193" value="模型(批处理)" style="rounded=1;whiteSpace=wrap;html=1;align=right;spacingRight=6;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-192">
+          <mxGeometry width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-194" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/line-hero-essentials/32/Essentials_puzzle_component-128.png;fillColor=#7AA860;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-192">
+          <mxGeometry x="10" y="5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-202" value="" style="group" vertex="1" connectable="0" parent="QesI7u1L_WgdvTfQqV23-181">
+          <mxGeometry x="476.12" y="100" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-195" value="图片(批处理)" style="rounded=1;whiteSpace=wrap;html=1;align=right;spacingRight=6;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-202">
+          <mxGeometry width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-200" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/line-hero-essentials/32/Essentials_puzzle_component-128.png;fillColor=#7AA860;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-202">
+          <mxGeometry x="4" y="5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-215" value="" style="group" vertex="1" connectable="0" parent="QesI7u1L_WgdvTfQqV23-181">
+          <mxGeometry x="289.94" y="100" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-191" value="&lt;div&gt;&lt;span&gt;模型&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=right;spacingRight=6;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-215">
+          <mxGeometry width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-199" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/line-hero-essentials/32/Essentials_puzzle_component-128.png;fillColor=#7AA860;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-215">
+          <mxGeometry x="10" y="5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-217" value="单类型元素" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-181">
+          <mxGeometry x="76.12" y="63" width="63.88" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lYB_4dRALKVZFrLRTpmS-102" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;comic=0;fontSize=24;fontColor=#FFFFFF;" parent="QesI7u1L_WgdvTfQqV23-239" vertex="1">
+          <mxGeometry x="466" y="790" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-237" value="Map.gl" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_elastic_beanstalk;strokeColor=#D86613;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#D86613;dashed=0;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-239">
+          <mxGeometry width="1020" height="1420" as="geometry" />
+        </mxCell>
+        <mxCell id="QesI7u1L_WgdvTfQqV23-238" value="" style="group" vertex="1" connectable="0" parent="QesI7u1L_WgdvTfQqV23-239">
+          <mxGeometry x="50" y="50" width="923" height="295" as="geometry" />
         </mxCell>
         <mxCell id="QesI7u1L_WgdvTfQqV23-226" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-238">
           <mxGeometry width="923" height="295" as="geometry" />
