@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-12T09:35:40.045Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="KdIQGkR8bK1Qej8SweDg" version="12.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-12T09:36:29.207Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="hheQebNF7u4BkL5yFEOU" version="12.9.3" type="github">
   <diagram id="kbm905aHLV5Dr9nUJAch" name="Page-1">
     <mxGraphModel dx="2106" dy="2013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -533,7 +533,7 @@
           <mxGeometry x="-521.25" y="600" width="840" height="760" as="geometry" />
         </mxCell>
         <mxCell id="QesI7u1L_WgdvTfQqV23-141" value="Storey Container 楼层容器" style="swimlane;fillColor=#7AA860;align=center;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-147">
-          <mxGeometry width="840" height="760" as="geometry" />
+          <mxGeometry y="90" width="840" height="760" as="geometry" />
         </mxCell>
         <mxCell id="QesI7u1L_WgdvTfQqV23-99" value="" style="group;labelPosition=right;verticalLabelPosition=middle;align=center;verticalAlign=middle;textDirection=rtl;" vertex="1" connectable="0" parent="QesI7u1L_WgdvTfQqV23-141">
           <mxGeometry x="9" y="35" width="135" height="40" as="geometry" />
