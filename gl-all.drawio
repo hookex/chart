@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-12T06:27:26.365Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="axHQkc4_lEoEg7-IKF28" version="12.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-12T06:28:10.055Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="tIiV6BrmgdeF5-7IPf37" version="12.9.3" type="github">
   <diagram id="kbm905aHLV5Dr9nUJAch" name="Page-1">
     <mxGraphModel dx="1722" dy="1760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -67,20 +67,8 @@
         <mxCell id="G_mRowMAx6_Zk3fWA19y-106" value="圆柱" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Verdana;" parent="UeCTLoyQdsgvgEPBuvyG-19" vertex="1">
           <mxGeometry x="684.5" y="285" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G_mRowMAx6_Zk3fWA19y-39" value="react-babylonjs&lt;br&gt;声明式3D开发库" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-431.93" y="1080" width="668.87" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="G_mRowMAx6_Zk3fWA19y-40" value="react-babylon-spring&lt;br style=&quot;font-size: 14px;&quot;&gt;声明式过渡动画解决方案" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;strokeColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-431.52" y="984" width="301.52" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="G_mRowMAx6_Zk3fWA19y-41" value="babylonjs&lt;br style=&quot;font-size: 14px;&quot;&gt;3D渲染库" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;strokeColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-432.49" y="1190" width="668.43" height="55" as="geometry" />
-        </mxCell>
         <mxCell id="G_mRowMAx6_Zk3fWA19y-64" value="connect by react-reconciler" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Verdana;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-207.75" y="1160" width="210" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="G_mRowMAx6_Zk3fWA19y-85" value="connect by react-spring" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Verdana;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-385.06" y="1052" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Kp7RcIrqSu2gTxTqtwUE-27" value="楼层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="-390" y="360" width="310" height="30" as="geometry" />
@@ -271,9 +259,6 @@
         <mxCell id="lYB_4dRALKVZFrLRTpmS-85" value="机械臂" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="-213.43" y="480" width="50.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lYB_4dRALKVZFrLRTpmS-90" value="useTimeline(id)&lt;br style=&quot;font-size: 14px;&quot;&gt;数据驱动实时动画解决方案 with hook" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;strokeColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-120" y="984" width="280" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="lYB_4dRALKVZFrLRTpmS-95" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/smallicons-logotypes/32/android-128.png;rounded=0;shadow=1;glass=0;comic=0;strokeColor=#000000;strokeWidth=1;fillColor=none;fontSize=24;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry y="352" width="60" height="60" as="geometry" />
         </mxCell>
@@ -322,9 +307,6 @@
         <mxCell id="lYB_4dRALKVZFrLRTpmS-171" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/nuvola2/128x128/filesystems/pipe.png;rounded=0;shadow=1;glass=0;comic=0;strokeColor=#000000;strokeWidth=1;fillColor=none;fontSize=14;fontColor=#4D4D4D;rotation=-45;" parent="1" vertex="1">
           <mxGeometry x="484.9599999999999" y="96.21" width="95.89" height="95.89" as="geometry" />
         </mxCell>
-        <mxCell id="lYB_4dRALKVZFrLRTpmS-176" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/fatcow/32/connect.png;rounded=0;shadow=1;glass=0;comic=0;strokeColor=#000000;strokeWidth=1;fillColor=none;fontSize=14;fontColor=#4D4D4D;rotation=-45;" parent="1" vertex="1">
-          <mxGeometry x="-214" y="1154" width="32" height="32" as="geometry" />
-        </mxCell>
         <mxCell id="lYB_4dRALKVZFrLRTpmS-182" value="数据预处理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;strokeColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-459.11" y="-370" width="1569.11" height="40" as="geometry" />
         </mxCell>
@@ -364,9 +346,6 @@
         <mxCell id="lYB_4dRALKVZFrLRTpmS-186" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1520" y="85" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="QesI7u1L_WgdvTfQqV23-2" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.inventory_software" vertex="1" parent="1">
-          <mxGeometry x="-180" y="1260" width="50" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="QesI7u1L_WgdvTfQqV23-16" value="WebGL" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-470" y="1630" width="660" height="60" as="geometry" />
         </mxCell>
@@ -385,7 +364,7 @@
         <mxCell id="QesI7u1L_WgdvTfQqV23-8" value="&amp;nbsp; &amp;nbsp;GPU" style="shape=mxgraph.gcp.compute.gpu;html=1;fillColor=#4387FD;gradientColor=#4683EA;strokeColor=none;verticalLabelPosition=middle;verticalAlign=middle;align=left;labelPosition=right;" vertex="1" parent="QesI7u1L_WgdvTfQqV23-19">
           <mxGeometry x="291.06" y="8.560000000000173" width="48.94" height="42.87" as="geometry" />
         </mxCell>
-        <mxCell id="QesI7u1L_WgdvTfQqV23-22" value="react-babylon-spring" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="QesI7u1L_WgdvTfQqV23-22" value="react-babylon-spring&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34; ; font-size: 14px&quot;&gt;声明式过渡动画方案&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-470" y="1370" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lYB_4dRALKVZFrLRTpmS-175" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/fatcow/32/connect.png;rounded=0;shadow=1;glass=0;comic=0;strokeColor=#000000;strokeWidth=1;fillColor=none;fontSize=14;fontColor=#4D4D4D;rotation=-45;" parent="1" vertex="1">
