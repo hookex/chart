@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-14T06:53:47.838Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="H-2AY36_OcdL1Mdl_FPv" version="13.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-14T06:53:56.368Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="2WnV0TZR3LWelj0X6wIg" version="13.4.2" type="github">
   <diagram id="kbm905aHLV5Dr9nUJAch" name="Page-1">
     <mxGraphModel dx="3204" dy="4695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -473,7 +473,7 @@
           <mxGeometry x="9.411764705882351" y="4.823943661971832" width="28.235294117647054" height="28.235294117647054" as="geometry" />
         </mxCell>
         <mxCell id="QesI7u1L_WgdvTfQqV23-161" value="CTU料箱点容器" style="swimlane;fillColor=#7AA860;align=center;" parent="QesI7u1L_WgdvTfQqV23-146" vertex="1">
-          <mxGeometry x="340.94117647058823" y="80.07746478873241" width="151.76470588235293" height="83.93661971830987" as="geometry" />
+          <mxGeometry x="343.4711764705882" y="80.07746478873241" width="151.76470588235293" height="83.93661971830987" as="geometry" />
         </mxCell>
         <mxCell id="QesI7u1L_WgdvTfQqV23-162" value="" style="group;labelPosition=right;verticalLabelPosition=middle;align=center;verticalAlign=middle;textDirection=rtl;" parent="QesI7u1L_WgdvTfQqV23-161" vertex="1" connectable="0">
           <mxGeometry x="8.941176470588234" y="30.873239436619723" width="127.05882352941175" height="38.591549295774655" as="geometry" />
