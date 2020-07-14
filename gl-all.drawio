@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-07-14T06:50:36.744Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="orRJ6y6zJHRLJbqM97jY" version="13.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-14T06:53:27.293Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="KgfqIH6kqF0Rs_kcuyBw" version="13.4.2" type="github">
   <diagram id="kbm905aHLV5Dr9nUJAch" name="Page-1">
-    <mxGraphModel dx="2253" dy="4220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3204" dy="4695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -431,7 +431,7 @@
           <mxGeometry x="-22.05" y="40" width="960" height="1370" as="geometry" />
         </mxCell>
         <mxCell id="QesI7u1L_WgdvTfQqV23-170" value="Map Container容器" style="swimlane;fillColor=#7AA860;align=center;" parent="QesI7u1L_WgdvTfQqV23-239" vertex="1">
-          <mxGeometry x="28.41" y="405.21" width="831.59" height="814.79" as="geometry" />
+          <mxGeometry x="40" y="735.21" width="831.59" height="814.79" as="geometry" />
         </mxCell>
         <mxCell id="QesI7u1L_WgdvTfQqV23-147" value="" style="group" parent="QesI7u1L_WgdvTfQqV23-170" vertex="1" connectable="0">
           <mxGeometry x="18.061176470588233" y="9.647887323943662" width="790.59" height="770" as="geometry" />
@@ -557,7 +557,7 @@
           <mxGeometry x="71.64235294117648" y="60.78169014084508" width="60.12235294117648" height="19.295774647887328" as="geometry" />
         </mxCell>
         <mxCell id="QesI7u1L_WgdvTfQqV23-238" value="" style="group" parent="QesI7u1L_WgdvTfQqV23-239" vertex="1" connectable="0">
-          <mxGeometry x="29.998823529411762" y="99.99943661971831" width="868.7058823529412" height="284.61267605633805" as="geometry" />
+          <mxGeometry x="41.58882352941177" y="429.9994366197183" width="868.7058823529412" height="284.61267605633805" as="geometry" />
         </mxCell>
         <mxCell id="QesI7u1L_WgdvTfQqV23-226" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="QesI7u1L_WgdvTfQqV23-238" vertex="1">
           <mxGeometry width="830" height="284.61" as="geometry" />
@@ -576,6 +576,9 @@
         </mxCell>
         <mxCell id="f9wfOgGjq59WF0PPiP35-6" value="河图渲染" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-585.63" y="1770" width="37.68" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="f9wfOgGjq59WF0PPiP35-9" value="静态地图应用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-610.0000000000001" y="910" width="37.68" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
