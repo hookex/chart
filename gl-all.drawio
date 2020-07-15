@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-07-15T08:49:03.601Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="YNHJeCr8R7FCc1TfQD0u" version="13.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-15T08:52:23.807Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="ou1SmYc6DrlUYN3AokV9" version="13.4.2" type="github">
   <diagram id="kbm905aHLV5Dr9nUJAch" name="Page-1">
-    <mxGraphModel dx="1653" dy="5060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2253" dy="4312" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wPMB_mogNWSCcTJh23QV-24" value="AnimationGroup" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="-609.82" y="3470" width="539.82" height="160" as="geometry" />
+        </mxCell>
         <mxCell id="Qb2TL99q_MYCM1XcV-fh-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4F86EC;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-420" y="-2700" width="1590" height="470" as="geometry" />
         </mxCell>
@@ -768,6 +771,25 @@
         </mxCell>
         <mxCell id="wPMB_mogNWSCcTJh23QV-12" value="timeline3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-280" y="3480" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wPMB_mogNWSCcTJh23QV-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.474;entryY=1.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wPMB_mogNWSCcTJh23QV-25" target="wPMB_mogNWSCcTJh23QV-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPMB_mogNWSCcTJh23QV-25" value="playback&lt;br&gt;play(),start(),pause(),speed,bufferd" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="-627.9100000000001" y="3710" width="539.82" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="wPMB_mogNWSCcTJh23QV-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="wPMB_mogNWSCcTJh23QV-28" target="wPMB_mogNWSCcTJh23QV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPMB_mogNWSCcTJh23QV-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.998;entryY=0.544;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wPMB_mogNWSCcTJh23QV-28" target="wPMB_mogNWSCcTJh23QV-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="317" y="3797" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wPMB_mogNWSCcTJh23QV-28" value="LivePlayerControl" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="192.18" y="3450" width="249.63" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
