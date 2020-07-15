@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-15T08:52:23.807Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="ou1SmYc6DrlUYN3AokV9" version="13.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-15T08:53:46.111Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="LuuPs0hv9wtEAmuAI5O7" version="13.4.2" type="github">
   <diagram id="kbm905aHLV5Dr9nUJAch" name="Page-1">
     <mxGraphModel dx="2253" dy="4312" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -788,8 +788,32 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="wPMB_mogNWSCcTJh23QV-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wPMB_mogNWSCcTJh23QV-28" target="wPMB_mogNWSCcTJh23QV-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPMB_mogNWSCcTJh23QV-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wPMB_mogNWSCcTJh23QV-28" target="wPMB_mogNWSCcTJh23QV-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wPMB_mogNWSCcTJh23QV-28" value="LivePlayerControl" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="192.18" y="3450" width="249.63" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wPMB_mogNWSCcTJh23QV-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wPMB_mogNWSCcTJh23QV-32" target="wPMB_mogNWSCcTJh23QV-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPMB_mogNWSCcTJh23QV-32" value="canRender" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="470" y="3360" width="201.91" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wPMB_mogNWSCcTJh23QV-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wPMB_mogNWSCcTJh23QV-33" target="wPMB_mogNWSCcTJh23QV-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPMB_mogNWSCcTJh23QV-33" value="canPlay" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="470" y="3580" width="201.91" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wPMB_mogNWSCcTJh23QV-37" value="创建组件树" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="870" y="3360" width="201.91" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wPMB_mogNWSCcTJh23QV-38" value="播放动画文件" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="870" y="3580" width="201.91" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
